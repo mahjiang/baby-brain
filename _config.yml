@@ -16,6 +16,12 @@ relative_links:
 search_enabled: true
 search.button: true
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 exclude:
   - CLAUDE.md
   - .claude/
