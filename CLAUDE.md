@@ -63,7 +63,8 @@ Major purchases and choices use this format (see `09-decisions/_template.md`):
 
 When Eric asks about a topic:
 1. Check if a relevant file already exists in the project
-2. Add research to the existing file (don't create new files unless needed)
-3. Use the decision doc format for purchase/choice decisions
-4. Update `timeline.md` if timing-relevant tasks are identified
-5. Cross-link between files when relevant
+2. Use the `/baby-research` skill for any research task — it provides curated sources, situation filtering, and the Oster evidence framework
+3. Add research to the existing file (don't create new files unless needed)
+4. Use the decision doc format for purchase/choice decisions
+5. Update `timeline.md` if timing-relevant tasks are identified
+6. Cross-link between files when relevant
