@@ -92,7 +92,7 @@ See [organization.md](organization.md) for detailed storage ideas. Key principle
 ### Skip
 - Dedicated changing table (waste of space)
 - Full-size crib (until baby outgrows bassinet — reassess at ~5-6 months)
-- Glider/rocker (nice but huge — your bed or a regular chair works)
+- Glider/rocker — nice but most are too big for small spaces. A comfortable existing chair + nursing pillow + $15 footstool covers ~80% of the benefit. If you do want one, compact gliders (~25" wide) fit better than full-size — see [nice-to-have](../02-gear/nice-to-have.md#nursing-chair--glider)
 - Diaper Genie (Ubbi is smaller; or just a regular trash can with lid)
 - Decorative items (cute but space costs are real)
 

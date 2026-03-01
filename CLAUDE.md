@@ -11,6 +11,7 @@ This is Eric's baby prep research and planning hub. Eric is a first-time parent;
 - Prefers new for safety-critical items (car seat, crib), used is fine for clothes/toys
 - Baby shower is expected, so registry strategy matters
 - There are some pregnancy complications being monitored
+- Strongly prefers buy-once solutions — minimize waste and reselling, but not at the cost of quality for convertibility
 
 ## File Conventions
 

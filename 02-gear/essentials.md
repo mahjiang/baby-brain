@@ -23,16 +23,16 @@
 
 ## Tier 2: Need in First Week Home
 
-| Item | Status | Decision File | Notes |
-|------|--------|--------------|-------|
-| Safe sleep space (bassinet or crib) | Researching | [crib-bassinet.md](crib-bassinet.md) | Must meet CPSC standards. Nothing in the crib but baby + fitted sheet. |
-| Fitted sheets (2-3) | — | — | For whatever sleep surface you choose. |
-| Changing pad + covers (2) | — | — | Contoured pad on dresser or table works; no dedicated changing table needed. |
-| Burp cloths (6-8) | — | — | Cloth diapers work great as burp cloths. |
-| Onesies / sleepers (5-7 in NB + 0-3mo) | — | [clothing.md](clothing.md) | Zip-up sleepers are your friend. |
-| Baby laundry detergent | — | — | Fragrance-free. Dreft is popular but any free & clear works. |
-| Diaper pail or wet bag | — | [diapering.md](diapering.md) | Ubbi is popular for small spaces (uses regular bags). |
-| Nail file / clippers | — | — | Babies' nails are sharp and grow fast. File is safer for newborns. |
+| Item                                   | Status      | Decision File                        | Notes                                                                        |
+| -------------------------------------- | ----------- | ------------------------------------ | ---------------------------------------------------------------------------- |
+| Safe sleep space (bassinet or crib)    | Researching | [crib-bassinet.md](crib-bassinet.md) | Must meet CPSC standards. Nothing in the crib but baby + fitted sheet.       |
+| Fitted sheets (2-3)                    | —           | —                                    | For whatever sleep surface you choose.                                       |
+| Changing pad + covers (2)              | —           | —                                    | Contoured pad on dresser or table works; no dedicated changing table needed. |
+| Burp cloths (6-8)                      | —           | —                                    | Cloth diapers work great as burp cloths.                                     |
+| Onesies / sleepers (5-7 in NB + 0-3mo) | —           | [clothing.md](clothing.md)           | Zip-up sleepers are your friend.                                             |
+| Baby laundry detergent                 | —           | —                                    | Fragrance-free. Dreft is popular but any free & clear works.                 |
+| Diaper pail or wet bag                 | —           | [diapering.md](diapering.md)         | Ubbi is popular for small spaces (uses regular bags).                        |
+| Nail file / clippers                   | —           | —                                    | Babies' nails are sharp and grow fast. File is safer for newborns.           |
 
 ## Tier 3: Need in First Month
 
@@ -75,15 +75,16 @@ See [nice-to-have.md](nice-to-have.md) for the full list. Highlights:
 
 | Category | Estimated Range | Notes |
 |----------|----------------|-------|
-| Car seat | $150–$400 | Buy new |
-| Bassinet/crib | $100–$350 | Buy new |
-| Stroller | $200–$600 | Buy new or certified refurbished |
-| Carrier | $30–$180 | Used OK if structurally sound |
-| Breast pump | $0 (insurance) | Check plan |
+| Car seat | **$450** | **Decided** — UPPAbaby Aria V2, see [car-seat.md](car-seat.md) |
+| Sleep setup (phased) | **$590–$770** | **Decided** — bassinet ($200-280) + DaVinci Sammy Scallop crib ($299) + mattress ($60-150) + cat cover ($30-40), see [crib-bassinet.md](crib-bassinet.md) |
+| Stroller | **$500** | **Decided** — UPPAbaby MINU V3, see [stroller.md](stroller.md) |
+| Carrier | $65–$200 | Used OK — wrap + structured carrier, see [carrier.md](carrier.md) |
+| Breast pump | $0 (insurance) + $25 manual backup | Check plan — see [feeding.md](feeding.md) |
+| Feeding supplies | $110–$135 | Bottles, pillow, pads, cream — see [feeding.md](feeding.md) |
 | Clothes + basics | $100–$200 | Used OK, accept hand-me-downs |
-| Diapers/wipes (first month) | $50–$80 | |
+| Diapers/wipes/supplies | $130–$270 | See [diapering.md](diapering.md) |
 | Everything else | $100–$300 | |
-| **Estimated total** | **$730–$2,110** | Before registry gifts |
+| **Estimated total** | **$2,045–$2,850** | Before registry gifts |
 
 ---
 
