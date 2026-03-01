@@ -1,3 +1,9 @@
+---
+title: Baby Clothing Guide
+parent: Gear
+nav_order: 9
+---
+
 # Baby Clothing Guide
 
 > **Used OK:** YES — clothes are perfect for secondhand, hand-me-downs, and Buy Nothing groups.

@@ -1,3 +1,9 @@
+---
+title: Baby Carrier / Wrap
+parent: Gear
+nav_order: 6
+---
+
 # Baby Carrier / Wrap
 
 > **Status:** Researching | **Buy by:** Week 32-34 | **Used OK:** Yes, if structurally sound

@@ -1,3 +1,8 @@
+---
+title: Timeline
+nav_order: 1
+---
+
 # Timeline — Week-by-Week Checklist
 
 > **How to use this:** Check your current week. Do those things. Ignore everything else until it's time. This is the antidote to overwhelm.

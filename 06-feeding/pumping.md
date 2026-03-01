@@ -1,3 +1,9 @@
+---
+title: Pumping
+parent: Feeding
+nav_order: 2
+---
+
 # Breast Pump & Pumping
 
 > **Check insurance by:** Week 24-28 | Most insurance plans cover a breast pump at no cost under the ACA.

@@ -1,3 +1,9 @@
+---
+title: Classes
+parent: Birth Prep
+nav_order: 4
+---
+
 # Classes
 
 > **Sign up by:** Week 22-24 (many fill up quickly)

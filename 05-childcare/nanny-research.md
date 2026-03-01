@@ -1,3 +1,9 @@
+---
+title: Nanny Research
+parent: Childcare
+nav_order: 3
+---
+
 # Nanny Research
 
 > See [decision framework](decision-framework.md) for how nannies compare to other options.

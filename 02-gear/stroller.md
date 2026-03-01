@@ -1,3 +1,9 @@
+---
+title: Stroller
+parent: Gear
+nav_order: 5
+---
+
 # Stroller
 
 > **Status:** Decided | **Buy by:** Week 30-32

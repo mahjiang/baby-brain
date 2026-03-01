@@ -1,3 +1,9 @@
+---
+title: Evidence Sources
+parent: Resources
+nav_order: 1
+---
+
 # Trusted Evidence Sources
 
 ## Tier 1: Primary Sources (Peer-Reviewed / Official Guidelines)

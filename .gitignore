@@ -2,3 +2,10 @@
 .claude/worktrees/
 .DS_Store
 .obsidian/
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/

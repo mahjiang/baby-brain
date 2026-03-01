@@ -1,3 +1,9 @@
+---
+title: Breastfeeding Prep
+parent: Feeding
+nav_order: 1
+---
+
 # Breastfeeding Prep
 
 > **When:** Start learning now; practical experience begins after birth

@@ -1,3 +1,9 @@
+---
+title: Formula Backup
+parent: Feeding
+nav_order: 3
+---
+
 # Formula — Backup Knowledge
 
 > Even if planning to breastfeed, it's smart to know the basics. No judgment — fed is best.

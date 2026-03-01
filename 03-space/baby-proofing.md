@@ -1,3 +1,9 @@
+---
+title: Baby-Proofing
+parent: Space & Setup
+nav_order: 2
+---
+
 # Baby-Proofing
 
 > You don't need to baby-proof everything now. This becomes relevant as baby becomes mobile (~6 months).

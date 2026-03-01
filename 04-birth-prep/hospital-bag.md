@@ -1,3 +1,9 @@
+---
+title: Hospital Bag
+parent: Birth Prep
+nav_order: 3
+---
+
 # Hospital Bag Packing Lists
 
 > **Pack by:** Week 32-34

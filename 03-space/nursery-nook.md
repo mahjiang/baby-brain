@@ -1,3 +1,9 @@
+---
+title: Nursery Nook
+parent: Space & Setup
+nav_order: 1
+---
+
 # Nursery Nook — Small-Space Plan
 
 > **Status:** Researching | No dedicated nursery room — designing a functional baby zone within shared space.

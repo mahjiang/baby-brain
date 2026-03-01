@@ -1,3 +1,9 @@
+---
+title: Vaccines
+parent: Health
+nav_order: 5
+---
+
 # Vaccine Schedule
 
 > Follow the AAP/CDC recommended schedule. Source: [CDC Immunization Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent.html)

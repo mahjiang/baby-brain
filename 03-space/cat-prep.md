@@ -1,3 +1,9 @@
+---
+title: Cat Prep
+parent: Space & Setup
+nav_order: 3
+---
+
 # Cat Prep — Introducing Cats to Baby
 
 > **Start:** Week 24-26 (gradual introduction to changes)

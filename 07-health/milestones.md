@@ -1,3 +1,9 @@
+---
+title: Milestones
+parent: Health
+nav_order: 4
+---
+
 # Developmental Milestones
 
 > Track milestones over time. These are ranges, not deadlines — every baby develops differently. Source: [CDC Milestone Tracker](https://www.cdc.gov/ncbddd/actearly/milestones/index.html)

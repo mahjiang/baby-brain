@@ -1,3 +1,9 @@
+---
+title: Hospital Research
+parent: Birth Prep
+nav_order: 2
+---
+
 # Hospital / Birth Center Research
 
 > **Tour by:** Week 28-30

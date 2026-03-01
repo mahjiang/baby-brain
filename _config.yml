@@ -1,0 +1,29 @@
+title: Baby Brain
+description: Research and planning hub for first-time parents
+theme: just-the-docs
+baseurl: /baby-brain
+url: https://mahjiang.github.io
+
+permalink: pretty
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+search_enabled: true
+search.button: true
+
+exclude:
+  - CLAUDE.md
+  - .claude/
+  - baby-research-workspace/
+  - 01-pregnancy/complications.md
+  - 09-decisions/_template.md
+  - 2026-02-28.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - LICENSE

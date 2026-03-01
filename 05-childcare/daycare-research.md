@@ -1,3 +1,9 @@
+---
+title: Daycare Research
+parent: Childcare
+nav_order: 2
+---
+
 # Daycare Research
 
 > **Start now.** Get on waitlists even before deciding. See [decision framework](decision-framework.md).

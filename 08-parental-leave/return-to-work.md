@@ -1,3 +1,9 @@
+---
+title: Return to Work
+parent: Parental Leave
+nav_order: 3
+---
+
 # Return to Work
 
 > Plan for this during leave, not the week before.

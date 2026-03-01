@@ -1,3 +1,9 @@
+---
+title: Newborn Care
+parent: Health
+nav_order: 2
+---
+
 # Newborn Care Basics
 
 > What to know for the first days and weeks. Fill in details from classes and provider guidance.

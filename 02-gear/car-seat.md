@@ -1,3 +1,9 @@
+---
+title: Car Seat
+parent: Gear
+nav_order: 3
+---
+
 # Car Seat
 
 > **Status:** Decided | **Buy by:** Week 26-28 | **Buy new:** YES (non-negotiable)

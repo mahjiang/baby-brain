@@ -1,3 +1,9 @@
+---
+title: Small-Space Organization
+parent: Space & Setup
+nav_order: 4
+---
+
 # Small-Space Organization
 
 > Apartment storage strategies for baby stuff.

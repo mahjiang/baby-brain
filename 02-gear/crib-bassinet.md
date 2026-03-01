@@ -1,3 +1,9 @@
+---
+title: Crib / Bassinet
+parent: Gear
+nav_order: 4
+---
+
 # Crib / Bassinet
 
 > **Status:** Decided | **Buy by:** Week 28-30 (bassinet), Week 32-34 (crib) | **Buy new:** YES (safety-critical)

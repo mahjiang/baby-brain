@@ -1,3 +1,9 @@
+---
+title: Weekly Log
+parent: Pregnancy
+nav_order: 1
+---
+
 # Weekly Log
 
 Track week-by-week notes, symptoms, and milestones.

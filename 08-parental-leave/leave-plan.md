@@ -1,3 +1,9 @@
+---
+title: Leave Plan
+parent: Parental Leave
+nav_order: 1
+---
+
 # Parental Leave Plan
 
 > **Review with HR by:** Week 24-26

@@ -1,3 +1,9 @@
+---
+title: Diapering
+parent: Gear
+nav_order: 8
+---
+
 # Diapering
 
 > **Status:** Researching

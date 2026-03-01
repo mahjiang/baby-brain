@@ -1,3 +1,9 @@
+---
+title: Registry Strategy
+parent: Gear
+nav_order: 2
+---
+
 # Registry Strategy
 
 > **Status:** Ready to discuss | **Priority:** HIGH — Set up by end of March, finalize by week 24-26

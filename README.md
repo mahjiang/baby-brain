@@ -1,3 +1,10 @@
+---
+title: Home
+layout: home
+nav_order: 0
+permalink: /
+---
+
 # Baby Stuff — Project Hub
 
 **Due date:** ~July 2026 | **Current week:** ~20 | **Started:** February 2026

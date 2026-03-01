@@ -1,3 +1,9 @@
+---
+title: Pregnancy Resources
+parent: Pregnancy
+nav_order: 3
+---
+
 # Pregnancy Resources
 
 ## Books

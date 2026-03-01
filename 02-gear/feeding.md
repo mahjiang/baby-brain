@@ -1,3 +1,9 @@
+---
+title: Feeding Supplies
+parent: Gear
+nav_order: 7
+---
+
 # Feeding Supplies
 
 > **Status:** Researching | Depends on feeding plan — see also [breastfeeding prep](../06-feeding/breastfeeding-prep.md) and [pumping](../06-feeding/pumping.md)

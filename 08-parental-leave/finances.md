@@ -1,3 +1,9 @@
+---
+title: Finances
+parent: Parental Leave
+nav_order: 2
+---
+
 # Finances — Baby Budget Impact
 
 ## Monthly Budget Changes

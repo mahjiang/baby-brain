@@ -1,3 +1,9 @@
+---
+title: Essentials
+parent: Gear
+nav_order: 1
+---
+
 # Essentials — Must Have Before Baby Arrives
 
 > **Status:** Researching | Everything on this list should be purchased or received by ~week 36.

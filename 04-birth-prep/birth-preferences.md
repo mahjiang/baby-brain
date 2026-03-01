@@ -1,3 +1,9 @@
+---
+title: Birth Preferences
+parent: Birth Prep
+nav_order: 1
+---
+
 # Birth Preferences
 
 > **Status:** Researching | Discuss with provider by ~week 32-34

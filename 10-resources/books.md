@@ -1,3 +1,9 @@
+---
+title: Books
+parent: Resources
+nav_order: 2
+---
+
 # Recommended Reading
 
 ## Pregnancy & Birth

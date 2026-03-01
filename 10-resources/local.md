@@ -1,3 +1,9 @@
+---
+title: Local Resources
+parent: Resources
+nav_order: 3
+---
+
 # Local Resources
 
 > Fill in as you discover local options.

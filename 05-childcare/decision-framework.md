@@ -1,3 +1,9 @@
+---
+title: Decision Framework
+parent: Childcare
+nav_order: 1
+---
+
 # Childcare Decision Framework
 
 > **Status:** Researching | **Priority:** HIGH — Start NOW. Urban waitlists can be 6-12+ months.

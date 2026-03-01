@@ -1,3 +1,9 @@
+---
+title: Prenatal Care
+parent: Pregnancy
+nav_order: 2
+---
+
 # Prenatal Care
 
 ## Provider Info

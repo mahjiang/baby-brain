@@ -1,3 +1,9 @@
+---
+title: Nice-to-Have Items
+parent: Gear
+nav_order: 10
+---
+
 # Nice-to-Have Items
 
 > Items that are helpful but not essential. Good registry additions. Don't buy until you see what you get as gifts and what baby actually likes.
