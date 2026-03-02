@@ -230,6 +230,55 @@ During the decision discussion, Eric explored premium convertible cribs that cou
 (Source: [WonderBaby — Cat Cover for Bassinet](https://www.wonderbaby.org/articles/cat-cover-for-bassinet))
 (Source: [GetForBaby — How to Keep Cat Out of Bassinet](https://getforbaby.com/how-to-keep-cat-out-of-bassinet/))
 
+## Crib Mattress Research
+
+*Added 2026-03-02*
+
+### Safety Requirements Checklist
+
+Before comparing specific mattresses, every crib mattress must meet these non-negotiable requirements:
+
+- [ ] **CPSC compliant (16 CFR 1241)** — As of August 2022, all crib mattresses sold in the US must pass the CPSC's mandatory firmness test based on ASTM F2933-21. This is a pass/fail standard — any compliant mattress sold by an established brand meets the safety floor. (Source: [CPSC Final Rule — Crib Mattress Safety Standard](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Approves-New-Federal-Safety-Standard-for-Crib-Mattresses-Rule-to-Provide-a-Safer-Marketplace-for-Parents))
+- [ ] **Standard size: minimum 51 5/8" x 27 1/4", max 6" thick** — Federal requirement. The DaVinci Sammy Scallop takes a standard 52"x28" crib mattress.
+- [ ] **Two-finger test: no more than two fingers (1") gap between mattress and crib side** — JPMA recommendation confirmed by DaVinci's own support docs. (Source: [DaVinci Support — Mattress Sizing](https://support.davincibaby.com/hc/en-us/articles/360056916734-What-size-mattress-should-I-buy))
+- [ ] **Firm and flat** — AAP safe sleep requirement. Both sides of a dual-firmness mattress must meet the CPSC firmness test; the "toddler side" is only relatively softer, not soft. (Source: [AAP Safe Sleep Policy 2022](https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304))
+- [ ] **No recalls** — Check CPSC before purchasing. Recent 2025-2026 recalls have targeted off-brand aftermarket mattresses sold on Amazon (KEAWIS, Modera, Mengna) for failing fit and firmness standards. (Source: [CPSC Safe Sleep](https://www.cpsc.gov/SafeSleep))
+
+> **Key takeaway (Oster framework):** All CPSC-compliant crib mattresses pass the same mandatory firmness test. The marginal safety difference between a $60 and $300 mattress is near-zero — the test is pass/fail. What differs is materials (organic vs. synthetic), durability, breathability, and convenience features. Buy from an established brand, verify no recalls, and focus on fit, comfort, and practical features.
+
+### Comparison: Top 3 Options for DaVinci Sammy Scallop
+
+| Feature | **Babyletto Pure Core** | **Colgate Eco Classica III** | **Graco Premium Foam** |
+|---------|--------------------------|------------------------------|------------------------|
+| **Price** | ~$150-200 (w/ waterproof cover) | ~$150-200 | ~$90 |
+| **Dimensions** | 52" x 27.75" x 5" | 51.7" x 27" x 6" | 51.8" x 27.5" x 4.5" |
+| **Weight** | ~11 lbs | ~9.6 lbs | ~7 lbs |
+| **Dual Firmness** | YES — firm infant / softer toddler | YES — firm infant / softer toddler | NO — single firmness |
+| **Waterproof** | Yes (removable cover) | Yes (built-in, non-removable) | Water-resistant (removable, machine-washable) |
+| **Certifications** | GREENGUARD Gold | GREENGUARD Gold, CertiPUR-US | GREENGUARD Gold, CertiPUR-US, Oeko-Tex 100 |
+| **Core Material** | 100% recyclable polyester (no polyurethane) | Polyurethane foam (plant-based oils) | Polyurethane foam |
+| **Breathability** | Good — non-foam core breathes better | Moderate — organic cotton cover with perforations | Poor — reviewers note it gets hot in summer |
+| **Made In** | Taiwan | USA | China |
+| **Situation Fit** | **Excellent** — best breathability in-budget for July baby; dual firmness for convertible crib; removable cover for cat household | **Good** — dual firmness; organic cotton cover; non-removable cover is harder to clean | **Fair** — lightest and cheapest; but no dual firmness, poor breathability for July baby |
+
+> **Recommendation: Babyletto Pure Core with Dry Waterproof Cover (2-Stage)** (~$150-200)
+>
+> Why it fits:
+> - Dual firmness aligns with the Sammy Scallop's 4-in-1 conversion path (buy-once)
+> - Non-foam core is more breathable than polyurethane — best in-budget option for a July baby
+> - GREENGUARD Gold certified, no polyurethane, no flame retardants
+> - At ~11 lbs, light enough for apartment sheet changes
+> - Waterproof removable cover is practical with 2 cats
+> - Standard size fits the Sammy Scallop (verify two-finger test after delivery)
+>
+> **Budget alternative:** Graco Premium Foam (~$90) if staying under $100 is critical, but you lose dual firmness (may need a second mattress for toddler stage) and breathability (gets hot in summer).
+>
+> **Registry stretch pick:** Newton Baby Essential (~$200-250) — 90% air core is unmatched for breathability. Strong registry candidate for a July baby.
+
+(Sources: [BabyGearLab — Best Crib Mattress](https://www.babygearlab.com/topics/nursery-furniture/best-crib-mattress), [Mommyhood101 — Best Crib Mattresses 2026](https://mommyhood101.com/best-crib-mattress), [Babyletto — Pure Core Mattress](https://babyletto.com/products/pure-core-crib-mattress-w-dry-waterproof-cover-2-stage), [Consumer Reports — Crib Mattress Buying Guide](https://www.consumerreports.org/babies-kids/crib-mattresses/buying-guide/))
+
+---
+
 ## Decision
 
 > **Status:** Decided — discussed with partner *2026-03-01*
@@ -276,8 +325,9 @@ During the decision discussion, Eric explored premium convertible cribs that cou
 - [ ] Set up sleep surface 4-6 weeks before due date to train cat to avoid it
 - [ ] Purchase Phase 1 bassinet by week 28-30
 - [ ] Purchase DaVinci Sammy Scallop crib by week 32-34
-- [ ] Buy crib mattress — must be firm, standard size (52"×28"), fit snugly with no gaps
+- [ ] Buy crib mattress — **Babyletto Pure Core 2-Stage w/ Dry Waterproof Cover** (~$150-200) or add Newton Baby Essential to registry as stretch pick
 
 *Created 2026-02-28*
 *Updated 2026-02-28: Full research completed — bassinets, bedside sleepers, mini cribs, cat safety*
 *Updated 2026-03-01: Decision reached — phased approach with DaVinci Sammy Scallop 4-in-1 replacing Kalani mini crib*
+*Updated 2026-03-02: Crib mattress research added — Babyletto Pure Core 2-Stage recommended*
