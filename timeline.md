@@ -15,12 +15,12 @@ nav_order: 1
 
 ### Week 20–22 — YOU ARE HERE
 - [ ] **Anatomy scan** (~20 weeks) — Major ultrasound; ask about any findings related to [complications](01-pregnancy/complications.md)
-- [ ] **Start the registry** — Read [registry strategy](02-gear/registry-strategy.md), set up at least one registry
+- [ ] **Populate registries by March 8** — See [registry strategy](02-gear/registry-strategy.md) for copy-paste-ready checklist. All product picks are finalized.
 - [ ] **Research childcare options** — Start NOW; waitlists are 6-12+ months in urban areas. See [decision framework](05-childcare/decision-framework.md)
 - [ ] **Get on daycare waitlists** — Even before deciding, get on lists. See [daycare research](05-childcare/daycare-research.md)
 - [ ] **Draft nursery nook plan** — Measure your space, see [nursery nook](03-space/nursery-nook.md)
-- [ ] **Start researching car seats** — See [car seat](02-gear/car-seat.md)
-- [ ] **Start researching strollers** — Transit + car combo matters. See [stroller](02-gear/stroller.md)
+- [x] ~~**Start researching car seats**~~ — **Decided:** UPPAbaby Aria V2. See [car seat](02-gear/car-seat.md)
+- [x] ~~**Start researching strollers**~~ — **Decided:** UPPAbaby MINU V3. See [stroller](02-gear/stroller.md)
 
 ### Week 22–24
 - [ ] Announce pregnancy more broadly (if not yet done)
@@ -32,8 +32,8 @@ nav_order: 1
 
 ### Week 24–26
 - [ ] Glucose tolerance test (~24-28 weeks)
-- [ ] **Finalize registry** — Share with family/shower host. See [registry strategy](02-gear/registry-strategy.md)
-- [ ] Research [crib/bassinet](02-gear/crib-bassinet.md) options for small space
+- [ ] **Share Babylist link with shower host by April 1** — See [registry strategy](02-gear/registry-strategy.md)
+- [x] ~~Research [crib/bassinet](02-gear/crib-bassinet.md) options~~ — **Decided:** Arm's Reach/HALO bassinet → DaVinci Sammy Scallop crib + Babyletto Pure Core mattress
 - [ ] Start [cat prep](03-space/cat-prep.md) — Gradual introduction to baby items
 - [ ] Review [parental leave](08-parental-leave/leave-plan.md) policies with HR
 
@@ -55,7 +55,7 @@ nav_order: 1
 - [ ] Review [finances](08-parental-leave/finances.md) — FSA, dependent care elections, budget impact
 
 ### Week 30–32
-- [ ] Baby shower (typically weeks 28-34)
+- [ ] **Baby shower — May 2** (~week 30)
 - [ ] After shower: assess what you still need from [essentials](02-gear/essentials.md)
 - [ ] **Use registry completion discounts** — See [registry strategy](02-gear/registry-strategy.md)
 - [ ] Wash baby clothes and linens (fragrance-free detergent)

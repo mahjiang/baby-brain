@@ -25,7 +25,7 @@ nav_order: 10
 | Item | Why | Notes |
 |------|-----|-------|
 | Exersaucer / jumper | Contained entertainment once baby can hold head up | Big footprint — skip if space is tight |
-| High chair | Starting solids ~6 months | IKEA Antilop is $20 and excellent |
+| High chair | Starting solids ~6 months | See [high-chair.md](high-chair.md) — Abiie Beyond recommended, IKEA Antilop as backup |
 | Teething toys | Some babies teethe early | |
 | Board books | Start reading early | Great gift/registry item |
 

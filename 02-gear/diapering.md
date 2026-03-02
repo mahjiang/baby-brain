@@ -135,16 +135,59 @@ Using Amazon Subscribe & Save or a diaper subscription can reduce disposable cos
 ## Wipes
 
 *Added 2026-02-28*
+*Updated 2026-03-02: Ingredient safety research, Consumer Reports findings, EWG ratings, situation-filtered comparison*
 
-| Brand | Price/Wipe | Key Features | Notes |
-|-------|-----------|-------------|-------|
-| **WaterWipes** | ~$0.05–$0.06 | 99.9% water + grapefruit seed extract, minimal ingredients | Gold winner 2026 Mother & Baby Awards; priciest but purest |
-| **Huggies Natural Care** | ~$0.03–$0.04 | 99% water, unscented, hypoallergenic, no parabens/alcohol | Great balance of quality and price |
-| **Pampers Sensitive** | ~$0.03–$0.04 | Dermatologist-tested, hypoallergenic, thick | Widely available, good all-rounder |
-| **Hello Bello** | ~$0.03 | Plant-based, hypoallergenic, included in subscription bundles | Good value via subscription |
-| **Store brands** | ~$0.02 | Cheapest option | Check ingredient lists; variable quality |
+### What the Evidence Says
 
-**Recommendation:** Start with **Huggies Natural Care** or **Pampers Sensitive** — good quality, widely available, and affordable. Try **WaterWipes** for the newborn phase when skin is most sensitive, then switch to a more affordable option once you know baby's skin tolerance. Buy fragrance-free regardless of brand. (Source: [BabyGearLab Baby Wipes](https://www.babygearlab.com/topics/diapering-potty/best-baby-wipes); [Mommyhood101 Best Wipes](https://mommyhood101.com/best-baby-wipes))
+**AAP guidance:** Use fragrance-free wipes. Wipes aren't needed for every diaper change — urine rarely irritates skin, and modern diapers wick moisture well. A wet washcloth or plain water works fine, especially for newborns. Reserve wipes primarily for bowel movements. (Source: [AAP — A Word on Wipes](https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/A-Word-on-Wipes.aspx))
+
+**Consumer Reports findings:** Of 15 brands tested, seven contained concerning or unclear ingredients. Key chemicals to watch for:
+- **Ethoxylated compounds** (look for "PEG-" or "polysorbate" on labels) — may be contaminated with 1,4-dioxane, a known carcinogen
+- **Benzalkonium chloride** (a quaternary ammonium compound) — can trigger asthma or skin allergies
+- **Fragrance** — umbrella term for 100+ undisclosed chemicals; #1 contact allergen
+- Pampers, Huggies, and Amazon brands contained some concerning ingredients AND use non-biodegradable plastic
+
+(Source: [Consumer Reports — Baby Wipes Without Harmful Chemicals](https://www.consumerreports.org/babies-kids/baby-wipes/how-to-choose-baby-wipes-without-harmful-chemicals-a1051850790/))
+
+**Oster framework reality check:** *The actual risk from trace preservatives like phenoxyethanol at wipe concentrations is low.* Most babies tolerate mainstream wipes without any reaction. The "clean" wipe premium (~$0.02–0.04/wipe more) is modest per wipe but adds up over 3,000+ wipes/year. Reasonable people can disagree on whether the premium is worth it — this is a values call, not a safety emergency. Starting gentle with a newborn and adjusting once you know their skin is the pragmatic move.
+
+### Comparison
+
+| Brand | Price/Wipe | Ingredients (EWG worst score) | Material | Situation Fit |
+|-------|-----------|-------------------------------|----------|---------------|
+| **WaterWipes** | ~$0.06 | 99.9% water + fruit extracts (EWG: 1) | Plant-based, biodegradable | **Best for newborn phase** — purest option, minimal irritation risk; expensive long-term at ~$220/yr |
+| **Honest Company** | ~$0.07 | Plant-based, 7 ingredients, all EWG ≤2 | Plant-based, biodegradable | **Best clean + everyday** — excellent safety profile; CR recommended; priciest long-term |
+| **Hello Bello** | ~$0.03 | 99% water, aloe, chamomile, plant-based | Plant-based | **Best budget-clean** — good ingredients at mainstream prices; subscription bundles with diapers |
+| **Pampers Sensitive** | ~$0.04 | Phenoxyethanol (EWG: 4), benzyl alcohol (EWG: 5) | Plastic-based | **Good** — #1 hospital wipe, thick and effective; some moderate-hazard ingredients |
+| **Huggies Natural Care** | ~$0.03–$0.04 | Phenoxyethanol (EWG: 4), cocamidopropyl betaine (EWG: 4) | Plastic-based | **Good** — thick, affordable, widely available; similar ingredient concerns as Pampers |
+| **Amazon Mama Bear 99% Water** | ~$0.04 | Water, phenoxyethanol, plant extracts | Plastic-based | **Fair** — budget water-based option; still has plastic + preservatives |
+| **Store brands (Up&Up, Parent's Choice)** | ~$0.02 | Variable — check labels | Usually plastic-based | **Budget pick** — check ingredients per batch; quality varies |
+
+(Sources: [BabyGearLab — Best Baby Wipes](https://www.babygearlab.com/topics/diapering-potty/best-baby-wipes), [Mommyhood101 — Best Baby Wipes 2026](https://mommyhood101.com/best-baby-wipes), [Consumer Reports](https://www.consumerreports.org/babies-kids/baby-wipes/how-to-choose-baby-wipes-without-harmful-chemicals-a1051850790/))
+
+### Annual Cost Math
+
+At ~8–10 wipes/day (~3,000–3,650/year):
+
+| Tier | Brand | Annual Cost |
+|------|-------|------------|
+| Premium-clean | WaterWipes or Honest | ~$180–$255 |
+| Budget-clean | Hello Bello | ~$90–$110 |
+| Mainstream | Pampers Sensitive / Huggies | ~$110–$145 |
+| Budget | Store brands | ~$60–$75 |
+
+### Recommendation
+
+> **Our pick: Start with WaterWipes for the newborn phase (first 4–6 weeks), then transition to Hello Bello for everyday use.**
+
+**Why this combo:**
+- **Newborn skin is most sensitive** in the first weeks — WaterWipes' minimal ingredients reduce irritation risk when you're still learning what baby tolerates. One case of WaterWipes (~$30 for 540 wipes) covers roughly the first month.
+- **Hello Bello hits the sweet spot** — plant-based, 99% water, good ingredient profile, and at ~$0.03/wipe it's cheaper than mainstream brands. Bundles with diapers via subscription for even more savings.
+- **If baby has no skin sensitivity**, Pampers Sensitive or Huggies Natural Care are perfectly fine everyday wipes — most babies tolerate them without issue. The ingredient concerns are low-probability.
+- **Skip wipe warmers** — AAP says most babies adjust to room-temperature wipes immediately. (Source: [AAP — A Word on Wipes](https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/A-Word-on-Wipes.aspx))
+- **Never flush wipes** — even "flushable" wipes clog pipes. Diaper pail or trash only.
+
+> **For partner discussion:** Do we care about the clean-ingredient premium (~$30–$50/year more for Hello Bello over Huggies)? Or just go mainstream and switch only if baby reacts?
 
 ---
 
@@ -226,7 +269,7 @@ The AAP and AAD recommend:
 ### If Disposable
 - [ ] Newborn diapers (1-2 packs — don't overbuy, may skip NB size)
 - [ ] Size 1 diapers (stock up more on this size)
-- [ ] Wipes — fragrance-free (Huggies Natural Care or Pampers Sensitive)
+- [ ] Wipes — WaterWipes for newborn phase (~$30/case), then Hello Bello for everyday (~$0.03/wipe)
 - [ ] Diaper pail — Ubbi Steel (~$80, uses regular trash bags)
 - [ ] Diaper cream — Aquaphor Baby for daily use + Desitin Max Strength for rash
 - [ ] Changing pad — Summer Contoured (~$15) + covers, or Keekaroo Peanut (~$130)
