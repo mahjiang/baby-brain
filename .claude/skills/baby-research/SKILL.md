@@ -92,6 +92,16 @@ Search order:
 
 If you encounter useful information from a non-curated source, flag it explicitly: `*Anecdotal:*` or `*Unverified source:*`
 
+### Perishable Facts (Prices, Inventory, Policies)
+
+Prices, retailer inventory (what a store carries), discount exclusions, and return policies change without notice. These are **perishable facts** — treat them differently from stable facts like product specs or safety standards.
+
+- **Verify before writing:** Check the retailer's own website before stating what they carry, exclude, price, or allow
+- **Cite with date:** `(Verified: [source](url), YYYY-MM-DD)` — the date matters because these facts expire
+- **If verification fails:** Flag it: `*Unverified — check [retailer website] before acting on this*`
+- **Cost comparisons:** Verify the current price at the specific retailer being discussed, not just MSRP
+- **Never assume** a retailer carries a brand, or that a discount applies/excludes a brand, based on general knowledge — check the site
+
 ## Step 5: Filter Findings by Situation Fit
 
 This is the most important step. **REQUIRED:** Read `references/situation-filtering.md` for detailed guidance.
@@ -112,6 +122,15 @@ Example:
 Rank options by situation fit first, generic review score second. A 4.2-rated product that fits perfectly outranks a 4.8 that doesn't.
 
 When no option perfectly fits, present the least-bad options with clear notes on compromises.
+
+### Include Category Leaders
+
+Every comparison table MUST include the category's top-rated or most-reviewed option from curated sources (e.g., BabyGearLab's #1, Wirecutter's top pick), even if it appears above budget or is not the obvious recommendation. This ensures the user sees the explicit tradeoff between the pick and the best-in-class option.
+
+- If the category leader IS the recommendation, no extra work needed
+- If the category leader is NOT the recommendation, the table must show why: "better product but $X more, and here's what you get for that $X"
+- An above-budget category leader with **Excellent** situation fit is a signal to reconsider, not to exclude
+- Budget items that beat category leaders on situation fit should say so explicitly: "Recommended over [leader] because [specific reason], despite [leader]'s advantage in [specific area]"
 
 ## Step 6: Evaluate Evidence (Oster Framework)
 
@@ -140,12 +159,21 @@ Follow project conventions from CLAUDE.md:
 
 Append to existing sections. Do not delete or rewrite content that's already good.
 
+### Recommendations Must Survive Propagation
+
+Recommendations in this project get referenced from multiple files (e.g., a mattress pick in crib-bassinet.md appears in registry-strategy.md and essentials.md). Write recommendations so the reasoning survives copy-paste:
+
+- **State the tradeoff explicitly in the recommendation itself**, not just in the comparison table above it: "Recommended over [alternative] because [reason]; [alternative] is better at [X] but costs $Y more"
+- **Never use relative qualifiers without context**: "Best breathability" must specify "best breathability among options under $X" or "best breathability in this comparison" — not unqualified superlatives that imply category-wide claims
+- **When a recommendation is referenced in another file**, include a link back to the full comparison: "See [full comparison](../path/to/file.md#section)" so readers can trace the reasoning
+
 ## Step 8: Cross-Link Related Files
 
 When research reveals connections to other files:
 - Add cross-links: `See [related topic](../path/to/file.md)`
 - Note dependencies: "Car seat choice affects stroller compatibility — see [stroller](stroller.md)"
 - If a finding in one file should update another, note it: `*Note: This finding affects [other file] — update needed.*`
+- When referencing a recommendation from another file, **preserve the key caveat or tradeoff** — don't flatten "best in-budget breathability (Newton is better but $100 more)" into just "best breathability"
 
 ## Batch Mode
 
@@ -163,3 +191,7 @@ When asked to research multiple files:
 - You're overwriting existing file content instead of appending
 - You're skipping the Situation Fit column in a comparison table
 - You're presenting relative risk without absolute numbers
+- You're stating retailer inventory, prices, or discount exclusions without live verification
+- You're building a comparison table without the category's top-rated option from curated sources
+- You're writing an unqualified superlative ("best X") without specifying the scope
+- You're referencing a recommendation in another file without preserving its caveats or linking back
