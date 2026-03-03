@@ -32,6 +32,7 @@ A registry isn't just a gift list — it's a research tool, price tracker, and c
 ## Where to Register — Platform Comparison
 
 *Added 2026-03-01*
+*Updated 2026-03-02: Corrected Babylist brand exclusions (UPPAbaby IS eligible) and Target availability (does not carry UPPAbaby).*
 
 | Feature | **Amazon** | **Babylist** | **Target** |
 |---------|-----------|-------------|-----------|
@@ -39,38 +40,43 @@ A registry isn't just a gift list — it's a research tool, price tracker, and c
 | **Max discount** | $300 (on up to $2,000) | $600 (on up to $4,000) | Not capped per use |
 | **Discount uses** | 2 uses | 1 use only | 2 uses (1 online + 1 in-store) |
 | **Discount window** | 60 days before → 90 days after due date | 60 days before → 90 days after due date | 8 weeks before → 6 months after due date |
-| **Brand exclusions** | Must be "sold by Amazon" (not 3rd-party) | UPPAbaby, Nuna, DaVinci, Lovevery, diapers, gift cards | None — 15% on everything storewide |
+| **Brand exclusions** | Must be "sold by Amazon" (not 3rd-party) | Nuna, DaVinci (Million Dollar Baby), Lovevery (subscriptions), Cradlewise, Nurture&, diapers, gift cards | None — 15% on everything storewide |
 | **Welcome box/kit** | ~$35 value (requires Prime + $10 spend + 10 items) | Hello Baby Box (~$160 value) | ~$100 in samples + coupons (in-store pickup) |
 | **Universal registry** | Yes (browser extension adds from any site) | Yes (best implementation — add from any store) | Limited (primarily Target products) |
 | **Group gifting** | Yes | Yes (automatic for items $100+) | Yes |
 | **Cash funds** | No | Yes (diaper fund, postpartum, college, etc.) — 2.9% + $0.30 fee per transaction | No |
 | **Return window** | 1 year | 9 months | 12 months from due date |
 | **In-store returns** | No (online only) | No (varies by retailer) | Yes — easiest returns |
-| **Situation Fit** | **Good** — widest selection, familiar to all gifters; discount cap limits big-ticket savings | **Good** — best universal registry for sharing; BUT excludes UPPAbaby and DaVinci from discount (our biggest items) | **Excellent** — uncapped 15% on everything including UPPAbaby & DaVinci; RedCard stacking; in-store returns |
+| **Situation Fit** | **Good** — widest selection, familiar to all gifters; discount cap limits big-ticket savings | **Excellent** — best universal registry for sharing; UPPAbaby IS eligible for 15% discount (our biggest items); excludes DaVinci only | **Excellent** — uncapped ~20% on DaVinci, bassinet, mattress, and mid-range items; BUT does not carry UPPAbaby |
 
 (Sources: [Amazon Baby Registry Benefits](https://www.amazon.com/baby-reg/benefits/summary), [Babylist Registry Discount](https://www.babylist.com/registry-discount), [Target Baby Registry](https://www.target.com/gift-registry/create-baby-registry), [Pregnant Chicken — Best Baby Registries 2026](https://pregnantchicken.com/best-baby-registries/))
 
 ### Critical Finding: Brand Exclusions
 
-> **This matters a lot for us.** Babylist's 15% completion discount **excludes UPPAbaby and DaVinci** (Million Dollar Baby) — our two biggest brands. The Babylist discount is effectively useless for the Aria V2 ($450), MINU V3 ($500), and Sammy Scallop crib ($299). Target has **no brand exclusions** and stacks with RedCard. For our specific purchases, Target is the clear completion discount winner.
+*Updated 2026-03-02: Corrected — Babylist does NOT exclude UPPAbaby; Target does not carry UPPAbaby.*
+
+> **This matters a lot for us.** Babylist's 15% completion discount **excludes DaVinci** (Million Dollar Baby) but **does NOT exclude UPPAbaby** — the Aria V2 ($450) and MINU V3 ($500) are eligible for Babylist's 15% off. Target has **no brand exclusions** but **does not carry UPPAbaby** (not an authorized retailer). **Split strategy:** Use **Babylist** for UPPAbaby completion discount (~$142.50 savings). Use **Target + RedCard** for DaVinci crib, bassinet, mattress, and other items (~$135 savings).
 
 ### Recommendation
 
-> **Register at 2 places:** **Babylist** (as the shareable primary, since it pulls from anywhere and has cash funds) + **Target** (for the completion discount on big-ticket self-buy items). Optionally add **Amazon** for the welcome box and as a backup discount source.
+*Updated 2026-03-02: Adjusted to 3-registry split strategy based on corrected brand availability.*
+
+> **Register at 3 places:** **Babylist** (shareable primary + UPPAbaby completion discount) + **Target** (DaVinci, bassinet, mattress, mid-range completion discount) + **Amazon** (welcome box + backup discount for anything not on Babylist/Target).
 
 **Why this combo:**
-- **Babylist** is the link you share with family — it aggregates everything into one clean list, supports cash funds (diaper fund, etc.), and gifters find it intuitive
-- **Target** is your private savings tool — add all self-buy items, get a RedCard (free debit version works), and use the ~20% stacked discount on UPPAbaby and DaVinci gear
-- **Amazon** is optional but free — the welcome box is decent, and the 15% Prime discount covers anything Target doesn't carry
+- **Babylist** is the link you share with family — it aggregates everything into one clean list, supports cash funds, and gifters find it intuitive. **Also your UPPAbaby discount source** — 15% off Aria V2 and MINU V3 via Babylist Shop
+- **Target** is your savings tool for everything else — DaVinci crib, bassinet, mattress, and mid-range items at ~20% off (15% + 5% RedCard). Target does not carry UPPAbaby
+- **Amazon** is your backup — welcome box is decent, and the 15% Prime discount covers anything not available on Babylist Shop or Target
 
-**Setup approach:** Create Babylist as your public-facing registry. Create a Target registry (can be private or less prominently shared). Import Target links into Babylist so gifters see one list but you retain Target completion discount eligibility. (Source: [Pregnant Chicken — Registry Strategy](https://pregnantchicken.com/best-baby-registries/))
+**Setup approach:** Create Babylist as your public-facing registry. Create a Target registry (can be private or less prominently shared). Import Target links into Babylist so gifters see one list but you retain Target completion discount eligibility. Add Amazon for the welcome box and as a backup discount source. (Source: [Pregnant Chicken — Registry Strategy](https://pregnantchicken.com/best-baby-registries/))
 
 - [ ] Get Target RedCard (debit version — no credit check, links to checking account, 5% off everything)
-- [ ] Set up Babylist registry (public, shareable)
-- [ ] Set up Target registry (for completion discount on self-buy items)
-- [ ] Optionally set up Amazon registry (for welcome box + backup discount)
+- [ ] Set up Babylist registry (public, shareable + UPPAbaby discount source)
+- [ ] Set up Target registry (for DaVinci, bassinet, mattress completion discount)
+- [ ] Set up Amazon registry (for welcome box + backup discount)
 - [ ] Add items from [essentials list](essentials.md) to Babylist
-- [ ] Add all self-buy items to Target registry (see completion discount strategy below)
+- [ ] Add UPPAbaby Aria V2 and MINU V3 to Babylist registry (for completion discount via Babylist Shop)
+- [ ] Add DaVinci crib, bassinet, mattress, and mid-range items to Target registry (see completion discount strategy below)
 
 ---
 
@@ -80,7 +86,7 @@ A registry isn't just a gift list — it's a research tool, price tracker, and c
 
 ### Self-Buy (Decided — Buy Yourself)
 
-These are safety-critical or heavily researched items where you've already made the decision. **Add all of these to your Target registry anyway** — you'll buy them yourself using the completion discount.
+These are safety-critical or heavily researched items where you've already made the decision. **Add UPPAbaby items to Babylist and everything else to Target** — you'll buy them yourself using completion discounts.
 
 | Item | Product | Price | Decision File | Notes |
 |------|---------|-------|---------------|-------|
@@ -135,6 +141,7 @@ Great gift territory — things people love buying, where the exact brand matter
 ## Completion Discount Strategy
 
 *Added 2026-03-01*
+*Updated 2026-03-02: Corrected UPPAbaby/Babylist eligibility and Target availability; split savings across platforms.*
 
 This is where the real savings are. The strategy: add everything to your registry — including items you plan to buy yourself — then use completion discounts after the shower to self-buy at 15-20% off.
 
@@ -154,7 +161,7 @@ This is where the real savings are. The strategy: add everything to your registr
 | **Max savings** | $300 | $600 | Not capped |
 | **Uses** | 2 | 1 | 2 (1 online + 1 in-store) |
 | **Stacks with sales?** | No (excludes Lightning/Prime Day deals) | No (cannot combine with other offers) | Yes (RedCard stacks; check sale-specific terms) |
-| **UPPAbaby eligible?** | Only if sold BY Amazon (check listing) | **No — excluded** | **Yes** |
+| **UPPAbaby eligible?** | Only if sold BY Amazon (check listing) | **Yes — eligible for 15% off** | N/A — Target does not carry UPPAbaby |
 | **DaVinci eligible?** | Only if sold BY Amazon | **No — excluded** (Million Dollar Baby) | **Yes** |
 | **Key restriction** | Must be "sold by Amazon.com" | Only Babylist Shop items | None — everything storewide |
 
@@ -162,16 +169,26 @@ This is where the real savings are. The strategy: add everything to your registr
 
 ### Potential Savings Calculation
 
-**Scenario: Buy decided items at Target with RedCard (~20% off)**
+*Updated 2026-03-02: Split across Babylist (UPPAbaby) and Target (DaVinci + other items) based on corrected availability.*
+
+**Babylist completion discount (15%) — UPPAbaby items**
+
+| Item | Retail Price | After 15% Discount | Savings |
+|------|-------------|---------------------|---------|
+| UPPAbaby Aria V2 | $450 | ~$382.50 | ~$67.50 |
+| UPPAbaby MINU V3 | $500 | ~$425 | ~$75 |
+| **Babylist subtotal** | **$950** | **~$807.50** | **~$142.50** |
+
+**Target completion discount (~20% w/ RedCard) — DaVinci + other items**
 
 | Item | Retail Price | After ~20% Discount | Savings |
 |------|-------------|---------------------|---------|
-| UPPAbaby Aria V2 | $450 | ~$360 | ~$90 |
-| UPPAbaby MINU V3 | $500 | ~$400 | ~$100 |
 | DaVinci Sammy Scallop | $299 | ~$239 | ~$60 |
 | Bassinet (Arm's Reach) | $200 | ~$160 | ~$40 |
 | Crib mattress (Babyletto Pure Core) | ~$175 | ~$140 | ~$35 |
-| **Subtotal** | **$1,624** | **~$1,299** | **~$325** |
+| **Target subtotal** | **$674** | **~$539** | **~$135** |
+
+**Combined savings: ~$277.50** (Babylist ~$142.50 + Target ~$135)
 
 **Scenario: Same items at Amazon with Prime (15% off, $300 cap)**
 
@@ -180,7 +197,7 @@ This is where the real savings are. The strategy: add everything to your registr
 | All items combined | $1,624 | ~$1,380 | ~$244 |
 | But capped at... | | | **$300 max** |
 
-> **Bottom line: Target + RedCard saves ~$325 on decided items alone** — more than Amazon's $300 cap — with no brand exclusions and no cap. This is the clear winner for self-buy items. Use Amazon's discount on anything Target doesn't carry.
+> **Bottom line: The Babylist + Target split saves ~$277.50 on decided items.** This is less than the old ~$325 estimate (because Babylist's 15% is lower than Target's ~20% for UPPAbaby), but it's the correct strategy since Target doesn't carry UPPAbaby. Amazon's $300 cap and listing restrictions make it the backup option.
 
 ### The Play-by-Play
 
@@ -188,19 +205,21 @@ This is where the real savings are. The strategy: add everything to your registr
 2. **By April 1:** Share Babylist link with shower host
 3. **May 2:** Baby shower
 4. **After shower (May):** Assess what's left. Everything ungifted on Target registry is now completion-discount eligible
-5. **May–June (discount window opens):** Buy self-buy items at Target with completion discount + RedCard
-6. **Use Amazon discount** for anything not available at Target or for items where Amazon has a better base price
+5. **May–June (discount window opens):** Buy UPPAbaby items through Babylist Shop with completion discount; buy DaVinci/bassinet/mattress at Target with completion discount + RedCard
+6. **Use Amazon discount** for anything not available on Babylist Shop or Target, or for items where Amazon has a better base price
 7. **Don't rush:** You have until October (Amazon) or January 2027 (Target) — no need to buy everything at once. Stagger purchases per the timeline buy-by dates
 
 ### Items to Add to Target Registry (Even If Self-Buying)
 
-Add these to maximize your completion discount:
-- [ ] UPPAbaby Aria V2 car seat ($450)
-- [ ] UPPAbaby MINU V3 stroller ($500)
+*Updated 2026-03-02: Removed UPPAbaby (Target doesn't carry it). Buy UPPAbaby through Babylist Shop with completion discount instead.*
+
+Add these to Target to maximize your ~20% completion discount:
 - [ ] DaVinci Sammy Scallop crib ($299)
 - [ ] Arm's Reach Clear-Vue OR HALO BassiNest 4.0 ($200-$280)
 - [ ] Babyletto Pure Core 2-Stage crib mattress (~$150-200)
 - [ ] Any other gear over $50 that Target carries
+
+> **UPPAbaby items (Aria V2 + MINU V3):** Add to **Babylist** registry instead — buy through Babylist Shop with 15% completion discount (~$142.50 savings).
 
 ---
 
@@ -224,7 +243,7 @@ See [essentials](essentials.md) for overall budget tracking.
 **Registry savings summary:**
 - Total gear estimate: ~$2,420–$3,185 (before gifts) — see [essentials](essentials.md)
 - Self-buy items (decided): ~$1,600–$1,830
-- Potential completion discount savings (Target + RedCard): **~$325**
+- Potential completion discount savings (Babylist + Target + RedCard): **~$277.50**
 - Registry gifts will cover a significant portion of the remaining ~$820–$1,355 in non-safety-critical items
 - **Realistic out-of-pocket after gifts + discounts: ~$1,300–$1,800** *(estimate — depends on shower generosity)*
 
@@ -288,18 +307,20 @@ Gift-friendly items across a range of price points. Add all of these to Babylist
 
 ### Target (Completion Discount Registry — Primarily Self-Buy)
 
-Add ALL of these to Target registry for the ~20% completion discount (15% + 5% RedCard). These are items you plan to buy yourself after the shower.
+*Updated 2026-03-02: Removed UPPAbaby (Target doesn't carry it). Use Babylist for UPPAbaby completion discount.*
+
+Add these to Target registry for the ~20% completion discount (15% + 5% RedCard). These are items you plan to buy yourself after the shower.
 
 #### Self-Buy Items (Add to Target for Completion Discount)
 
-- [ ] UPPAbaby Aria V2 car seat — $450 → ~$360 after discount
-- [ ] UPPAbaby MINU V3 stroller — $500 → ~$400 after discount
 - [ ] DaVinci Sammy Scallop 4-in-1 crib — $299 → ~$239 after discount
 - [ ] Arm's Reach Clear-Vue OR HALO BassiNest 4.0 — $200-280 → ~$160-224 after discount
 - [ ] Babyletto Pure Core 2-Stage crib mattress — ~$175 → ~$140 after discount
 - [ ] Cat safety mesh cover — ~$30-40
 - [ ] Infant Optics DXR-8 PRO video monitor — ~$170-200 *(or VTech VM819 ~$60 as budget alt)*
 - [ ] Any other items $50+ that Target carries and weren't gifted
+
+> **UPPAbaby Aria V2 ($450) and MINU V3 ($500):** Buy through **Babylist Shop** with 15% completion discount → ~$382.50 + ~$425 = ~$807.50 (saves ~$142.50)
 
 #### Also Add to Target (Backup if Not Gifted on Babylist)
 
@@ -333,20 +354,26 @@ These are too cheap or too preference-dependent to register:
 
 ## Action Items
 
+*Updated 2026-03-02: Adjusted for 3-registry split strategy.*
+
 - [ ] Get Target RedCard (debit version — no credit check) — **do this week**
 - [ ] Set up Babylist registry — **by March 8**
 - [ ] Set up Target registry — **by March 8**
+- [ ] Set up Amazon registry (welcome box + backup discount) — **by March 8**
 - [ ] Add all items from Master Registry Checklist above to Babylist — **by March 8**
-- [ ] Add all self-buy items to Target registry — **by March 8**
+- [ ] Add UPPAbaby Aria V2 + MINU V3 to Babylist (for completion discount via Babylist Shop) — **by March 8**
+- [ ] Add DaVinci crib, bassinet, mattress, and mid-range items to Target registry — **by March 8**
 - [ ] Discuss registry with partner (platform choices, cash funds)
 - [ ] Share Babylist link with shower host — **by April 1**
 - [x] ~~Finalize baby monitor pick~~ — **Decided:** Infant Optics DXR-8 PRO (~$170-200). Add to registries.
 - [ ] **May 2: Baby shower**
-- [ ] After shower: assess what's left, buy remaining self-buy items at Target with completion discount + RedCard
+- [ ] After shower: assess what's left, buy UPPAbaby self-buy items through Babylist, other self-buy items at Target with RedCard
 - [ ] Completion discount activation: ~May 2026 for all platforms
+- [ ] Verify UPPAbaby is still eligible for Babylist discount when discount window opens — exclusions can change without notice per Babylist TOS
 
 ---
 
 *Created 2026-02-28*
 *Updated 2026-03-01: Full research pass — platform comparison with sources, completion discount strategy with calculations, updated self-buy list with decided items, added Our Situation section*
 *Updated 2026-03-02: Added Master Registry Checklist with specific products and prices for all items. Updated shower date to May 2, registry deadline to March 8. Updated budget figures with crib mattress pick (Babyletto Pure Core).*
+*Updated 2026-03-02: Corrected two errors — (1) Target does not carry UPPAbaby (not an authorized retailer); (2) Babylist does NOT exclude UPPAbaby from completion discount. Revised to 3-registry split strategy: Babylist for UPPAbaby discount, Target for DaVinci/other items, Amazon as backup. Updated savings from ~$325 to ~$277.50.*
