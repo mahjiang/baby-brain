@@ -194,6 +194,51 @@ A 2024 peer-reviewed study found that paced bottle feeding effectively slowed fe
 
 ---
 
+### Bottle Sterilizer
+
+**Status:** Researched
+
+#### Do You Need One?
+
+*Evidence:* The AAP says that if your tap water is safe to drink, sterilizing bottles is not required — washing thoroughly with hot soapy water or running through a dishwasher is sufficient. The CDC recommends sanitizing feeding items daily only for babies under 2 months, premature infants, or immunocompromised babies. For older healthy babies, thorough cleaning after each use is enough. A dishwasher with a hot water wash and heated drying cycle counts as sanitizing per CDC guidelines. (Sources: [AAP — How to Sterilize and Warm Baby Bottles Safely](https://www.healthychildren.org/English/ages-stages/baby/formula-feeding/Pages/How-to-Sterilize-and-Warm-Baby-Bottles-Safely.aspx), [CDC — How to Clean, Sanitize, and Store Infant Feeding Items](https://www.cdc.gov/hygiene/faq/index.html))
+
+**Bottom line:** A sterilizer is a convenience item, not a safety necessity for healthy full-term babies with clean tap water. The main value is peace of mind in the first ~2 months and making pump part/bottle cleanup faster if you're doing a lot of it (combo feeding, pumping at work).
+
+#### Types
+
+| Type | How It Works | Counter Space | Price Range | Best For |
+|------|-------------|---------------|-------------|----------|
+| **Electric steam + dryer** | Steam kills germs, then hot filtered air dries | Significant (~8"x10" footprint) | $75–$150 | Daily use, combo feeding, lots of pump parts |
+| **Electric steam only** | Steam sterilizes; items come out wet | Moderate | $50–$75 | Budget countertop option (pair with drying rack) |
+| **Microwave steam** | Steam in a sealed container inside microwave | **None** (stores in cabinet) | $15–$20 | Apartment life, minimal counter space |
+| **Boiling water** | 5 minutes in a rolling boil (free, no gadget) | None | $0 | Occasional use, backup method |
+
+#### Product Comparison
+
+| Sterilizer | Type | Price | Capacity | Cycle Time | Key Features | Situation Fit |
+|-----------|------|-------|----------|------------|-------------|---------------|
+| **Philips Avent Premium SCF293** | Steam + dryer | ~$100 | 6 bottles | 6 min sterilize; 40 min sterilize+dry; 10 min quick sterilize | Single-dial operation; modular/compact design; HEPA-filtered drying air; 24-hr sterile storage with lid closed | **Best overall** — good capacity, compact for its class, well-reviewed across Mommyhood101 and Reviewed.com; dryer eliminates hand-drying; reasonable price for a sterilize+dry unit |
+| **Babymoov Turbo Pure** | Steam + dryer | ~$75 | 6 bottles | 8 min sterilize; 38 min sterilize+dry | Targeted steam jets; HEPA filter; 36-hr sterile storage; removable stems for different bottle sizes | **Best value (sterilize+dry)** — $25 less than Philips for similar functionality; HEPA filter; Mommyhood101 rated 8/10 |
+| **Papablic Pro** | Steam + dryer | ~$115 | 8–10 bottles | 8 min sterilize; 45-60 min full cycle | Large capacity; two-tray system; exceeds 250°F; simple rotary knob | **Best for high volume** — largest capacity if you're combo feeding and pumping with lots of parts daily; Consumer Reports tested; pricier |
+| **Baby Brezza SuperQuick** | Steam + dryer | ~$150 | 8 bottles + 2 pump part sets | **10 min total** (5 sterilize + 5 dry) | Fastest option; 4 modes; stainless steel finish available | **Best if speed matters** — premium price for the fastest cycle; Mommyhood101 rated 9/10; large counter footprint |
+| **Munchkin Steam Guard** | Microwave | ~$15–20 | 4 bottles | 2–6 min (varies by microwave wattage) | No counter space; fits tall bottles; no electricity needed | **Best for apartment / budget** — solves the counter space problem entirely; effective steam sterilization at a fraction of the price; no drying function (pair with Boon Grass rack) |
+
+(Sources: [Mommyhood101 — Best Bottle Sterilizers 2026](https://mommyhood101.com/best-baby-bottle-sterilizers-dryers), [Reviewed.com — Best Bottle Sterilizers 2026](https://www.reviewed.com/parenting/best-right-now/best-bottle-sterilizers), [Consumer Reports — Best Baby Bottle Sterilizers 2026](https://www.consumerreports.org/babies-kids/baby-bottle-sterilizers/best-baby-bottle-sterilizers-of-the-year-a5283715488/), [Babylist — Best Bottle Sterilizers 2026](https://www.babylist.com/hello-baby/best-bottle-sterilizers))
+
+*Prices verified where possible; sterilizer prices are perishable — verify before purchase.*
+
+> **Our situation:** Counter space is limited in the apartment. You already have a Boon Grass drying rack on the plan. The key question is whether you have a dishwasher with a heated dry cycle — if so, that handles sanitizing per CDC guidelines and a sterilizer is truly optional.
+>
+> **If you have a dishwasher with heated dry:** The **Munchkin Steam Guard** (~$15-20) is a good backup for days you don't want to run a full dishwasher load. Stores in a cabinet, no counter space, does the job in minutes.
+>
+> **If you don't have a dishwasher (or want a dedicated sterilizer):** The **Babymoov Turbo Pure** (~$75) is the best value sterilize+dry unit. The **Philips Avent Premium** (~$100) is the better-reviewed option if you can spend $25 more. Either is a reasonable registry item.
+>
+> **Skip the all-in-one washer/sterilizer combos** ($200+) — over budget and overkill for a moderate bottle volume.
+>
+> *This is a "wait and see" item. You can always boil water or microwave-sterilize in the first 2 months, then decide if you want a dedicated unit based on how much bottle/pump washing you're actually doing.*
+
+---
+
 ### Breast Milk Storage Bags
 
 **Status:** Researched (if pumping)
@@ -254,6 +299,7 @@ A 2024 peer-reviewed study found that paced bottle feeding effectively slowed fe
 | Bottles (starter) | Comotomo Gen 2 5oz 2-pack + Dr. Brown's Options+ 3-pack | ~$41-43 | Researched | Before baby — both on registry; try Comotomo first |
 | Bottle brush | OXO Tot with Stand | ~$10 | Researched | Before baby |
 | Drying rack | Boon Grass | ~$16 | Researched | Before baby — registry item |
+| Bottle sterilizer | Munchkin Steam Guard (microwave) or Babymoov Turbo Pure (electric) | ~$15–$75 | Researched | Wait and see — not essential with clean water + dishwasher |
 | Breast pump | Spectra S2 Plus (insurance) + manual backup | Free–$30 | Researched | Order at 30+ weeks |
 | Storage bags | Lansinoh 50ct | ~$8 | Researched | Before baby if pumping |
 | Nipple cream | Lansinoh Lanolin | ~$10 | Researched | Before baby |

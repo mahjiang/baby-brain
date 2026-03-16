@@ -15,7 +15,7 @@ nav_order: 1
 
 ### Week 20–22 — YOU ARE HERE
 - [x] ~~**Anatomy scan** (~20 weeks)~~ — Completed 2026-03-15. See [complications](01-pregnancy/complications.md) for any findings
-- [ ] **Populate registries by March 8** — See [registry strategy](02-gear/registry-strategy.md) for copy-paste-ready checklist. All product picks are finalized.
+- [x] ~~**Populate registries**~~ — Done. See [registry tracker](02-gear/registry-tracker.md) for current status.
 - [ ] **Research childcare options** — Start NOW; waitlists are 6-12+ months in urban areas. See [decision framework](05-childcare/decision-framework.md)
 - [ ] **Get on daycare waitlists** — Even before deciding, get on lists. See [daycare research](05-childcare/daycare-research.md)
 - [ ] **Draft nursery nook plan** — Measure your space, see [nursery nook](03-space/nursery-nook.md)

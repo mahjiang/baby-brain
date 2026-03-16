@@ -26,10 +26,8 @@ defaults:
 exclude:
   - CLAUDE.md
   - .claude/
-  - baby-research-workspace/
   - 01-pregnancy/complications.md
   - 09-decisions/_template.md
-  - 2026-02-28.md
   - Gemfile
   - Gemfile.lock
   - vendor/

@@ -10,7 +10,7 @@ This is Eric's baby prep research and planning hub. Eric is a first-time parent;
 - Evidence-based planner who is thorough but currently feeling overwhelmed
 - Prefers new for safety-critical items (car seat, crib), used is fine for clothes/toys
 - Baby shower is expected, so registry strategy matters
-- There are some pregnancy complications being monitored
+- Anatomy scan (week 21) was normal — no complications identified
 - Strongly prefers buy-once solutions — minimize waste and reselling, but not at the cost of quality for convertibility
 
 ## File Conventions
@@ -58,6 +58,9 @@ Major purchases and choices use this format (see `09-decisions/_template.md`):
 - `02-gear/essentials.md` — Master buy list with status tracking
 - `02-gear/registry-strategy.md` — Registry approach
 - `09-decisions/_template.md` — Template for decision docs
+- `10-resources/evidence-sources.md` — Curated evidence sources and methodology
+
+Use `09-decisions/` for non-gear decisions. Gear decisions live in `02-gear/` files.
 
 ## How to Help
 

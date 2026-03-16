@@ -4,11 +4,11 @@
 
 ## Current Risk Factors
 
-*Fill in specific complications being monitored.*
+No complications identified. Anatomy scan (week 21, 2026-03-15) was normal.
 
 | Condition | Diagnosed | Monitoring Plan | Notes |
 |-----------|-----------|----------------|-------|
-| | | | |
+| None | — | — | Anatomy scan normal |
 
 ## Questions for Provider
 

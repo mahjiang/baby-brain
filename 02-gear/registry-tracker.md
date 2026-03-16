@@ -1,3 +1,9 @@
+---
+title: Registry Tracker
+parent: Gear
+nav_order: 10
+---
+
 # Babylist Registry Tracker
 
 **Registry:** Jess & Eric Jiang

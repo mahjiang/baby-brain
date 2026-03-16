@@ -6,7 +6,7 @@ nav_order: 1
 
 # Essentials — Must Have Before Baby Arrives
 
-> **Status:** Registry-ready | All items have product picks. Populate registries by March 8. Everything should be purchased or received by ~week 36.
+> **Status:** Registries populated | All items have product picks. Everything should be purchased or received by ~week 36. See [registry tracker](registry-tracker.md) for gift vs. self-buy status.
 
 ## Status Key
 - `Researching` — Comparing options
@@ -297,6 +297,18 @@ Temporal (forehead swipe) thermometers are the most accurate non-rectal method p
 | Sheets + burp cloths | $145–$170 | SNOO sheets (~$65-105) + crib sheets (~$66) + Gerber prefolds |
 | Health + first aid | $75–$95 | Thermometer, nail care, first aid kit, pacifiers |
 | Household (detergent, etc.) | $12–$14 | All Free Clear for whole household |
-| **Estimated total** | **~$1,975–$2,680** | Before registry gifts (SNOO, PBK Kendall Convertible Crib, Ergobaby Omni Deluxe, BabyBjorn Bouncer gifted) |
+| **Estimated total** | **~$1,975–$2,680** | Before registry gifts |
+
+### Gifts Received vs. Remaining Out-of-Pocket
+
+| Item | Estimated Value | Source |
+|------|----------------|--------|
+| SNOO bassinet | ~$1,700 | Gifted |
+| PBK Kendall Convertible Crib | ~$900 | Gifted |
+| Ergobaby Omni Deluxe | ~$200 | Gifted |
+| BabyBjorn Bouncer | ~$230 | Gifted |
+| **Total gifted** | **~$3,030** | |
+
+**Remaining out-of-pocket estimate:** ~$1,975–$2,680. See [registry tracker](registry-tracker.md) for what's still on registry vs. self-buy.
 
 ---
