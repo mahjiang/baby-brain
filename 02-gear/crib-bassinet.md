@@ -6,7 +6,7 @@ nav_order: 4
 
 # Crib / Bassinet
 
-> **Status:** Decided | **Buy by:** Week 28-30 (bassinet), Week 32-34 (crib) | **Buy new:** YES (safety-critical)
+> **Status:** Ready (gifted) | **Gifted:** SNOO bassinet + PBK Kendall Convertible Crib | **Buy new:** Crib mattress + cat cover + travel crib still needed
 
 ## What to Know
 
@@ -18,8 +18,6 @@ nav_order: 4
 - **"Bare is Best"** — CPSC and AAP agree: nothing in the crib/bassinet except a firm mattress with a fitted sheet (Source: [CPSC Safe Sleep](https://www.cpsc.gov/SafeSleep))
 - **Crib bumpers are banned** — federal crib bumper ban is in effect; they can obstruct infant breathing (Source: [CPSC 2025 Warnings](https://www.cpsc.gov/SafeSleep))
 - **Buy only CPSC-compliant products from established brands** — CPSC has issued multiple 2024-2025 warnings against off-brand convertible cribs, aftermarket mattresses, and baby loungers sold on Amazon that fail federal safety standards
-
-*Updated 2026-02-28*
 
 ## Our Requirements
 
@@ -65,19 +63,16 @@ nav_order: 4
 |-------|-----------|--------------|-------|--------------|----------|
 | **DaVinci Sammy Scallop 4-in-1** | 53.75"x29.5"x35"H | 50 lbs | ~$299 | 4-in-1 (crib→toddler bed→daybed→full bed), 4 adjustable mattress positions, GREENGUARD Gold, NZ pine, standard crib mattress (52"x28"). 4.8/5 rating. Colors: Light Sage, Strawberry Red, Powder Blue, White. | Conversion kits sold separately; larger footprint than mini crib (~54"x30" vs ~40"x29") |
 
-### ~~Mini Cribs~~ *(Originally considered for Phase 2 — replaced by full-size convertible above)*
+### Mini Cribs (Originally Considered — Replaced by Full-Size Convertible)
 
 | Model | Dimensions | Weight Limit | Price | Key Features | Concerns |
 |-------|-----------|--------------|-------|--------------|----------|
-| ~~**DaVinci Kalani 4-in-1 Mini Crib**~~ | 40"x28.75"x38.25"H | 45 lbs | ~$180-220 | 4 mattress positions, converts to mini toddler bed/daybed/twin bed. GREENGUARD Gold, exceeds CPSC/ASTM. Highly rated (4.7/5). | Conversion kits sold separately; still takes up more floor space than bassinet |
 | **Babyletto Origami Mini Crib** | 39.25"x25.75"x36"H | Until 35" tall or climbing | ~$250-300 | Folds flat for storage, wheels for portability, 2 mattress positions. GREENGUARD Gold, NZ pine wood. | Heavier at 50 lbs; folding mechanism means slightly less rigid feel than fixed crib |
 | **Guava Lotus Travel Crib** | 42"x24"x25"H (folds to 24"x12"x8") | No weight limit (floor level) | ~$250 | Ultra-portable (15 lbs), backpack carry, side zip door. GREENGUARD Gold. Birth to 3+ years. | Floor-level mattress (harder to reach baby at night); travel-oriented design; mattress is thin |
 
 ## Research & Reviews
 
 ### AAP Safe Sleep Guidelines — Current Evidence
-
-*Added 2026-02-28*
 
 The AAP's most recent major safe sleep policy update was published in June 2022 (reaffirmed through 2024-2025) with these key recommendations:
 
@@ -95,8 +90,6 @@ The AAP's most recent major safe sleep policy update was published in June 2022 
 > **Key takeaway:** Any CPSC-compliant bassinet, mini crib, or full crib with a firm flat mattress and fitted sheet is equally safe. The choice between them is about space, convenience, and lifespan — not safety.
 
 ### Bassinet vs. Mini Crib vs. Pack 'n Play — Which to Buy?
-
-*Added 2026-02-28*
 
 **The case for starting with a bassinet or bedside sleeper (Phase 1):**
 - AAP recommends room-sharing; a bassinet fits next to the bed where a crib often won't
@@ -120,8 +113,6 @@ The AAP's most recent major safe sleep policy update was published in June 2022 
 (Source: [WonderBaby — Bassinet vs Pack 'n Play](https://www.wonderbaby.org/articles/bassinet-vs-pack-n-play))
 
 ### Specific Product Analysis
-
-*Added 2026-02-28*
 
 **Best overall bedside sleeper: Arm's Reach Clear-Vue**
 - BabyGearLab top scorer for co-sleepers; praised for best sleeping surface tested and breathable mesh sides
@@ -159,9 +150,7 @@ The AAP's most recent major safe sleep policy update was published in June 2022 
 - *Footprint tradeoff:* Full-size crib is bigger than mini crib (~54"×30" vs ~40"×29"), but converts to toddler bed and eventually full-size bed — no need to buy a second sleep surface
 - (Source: [DaVinci Baby — Sammy Scallop](https://davincibaby.com/products/sammy-scallop-4-in-1-convertible-crib))
 
-~~**Best mini crib: DaVinci Kalani 4-in-1**~~ *(superseded by Sammy Scallop above)*
-- ~~Most recommended mini crib across multiple review sites; 4.7/5 average rating~~
-- ~~At ~$200, strong value given convertibility~~
+**Previously considered: DaVinci Kalani 4-in-1 Mini Crib**
 - *Why we moved away:* Mini crib converts to mini toddler bed and twin, but the full-size Sammy Scallop converts to a full-size bed — better long-term value for ~$100 more
 - (Source: [DaVinci Baby — Kalani Mini Crib](https://davincibaby.com/products/kalani-4-in-1-convertible-mini-crib))
 
@@ -177,8 +166,6 @@ The AAP's most recent major safe sleep policy update was published in June 2022 
 
 ### Buy-Once Alternatives Considered
 
-*Added 2026-03-01*
-
 During the decision discussion, Eric explored premium convertible cribs that could potentially replace both bassinet and crib (true buy-once solutions). Decided the phased approach (bassinet + Sammy Scallop) was a better fit:
 
 | Model | Price | Converts To | Why We Passed |
@@ -190,8 +177,6 @@ During the decision discussion, Eric explored premium convertible cribs that cou
 > **Why phased approach won:** Bassinet (~$200-280) + DaVinci Sammy Scallop (~$299) = ~$500-580 total, which is less than any single buy-once crib above. The bassinet provides critical bedside convenience for the first 5 months (night feeds, AAP room-sharing), and the Sammy Scallop still converts through to a full-size bed. Practical value over premium design.
 
 ### Cat Safety Solutions
-
-*Added 2026-02-28*
 
 **Why it matters:** Cats are heat-seeking and attracted to cozy enclosed spaces. A newborn cannot turn their head or push a cat away. The risk is suffocation if a cat curls up against or on a baby's face. This is not a myth — veterinarians and pediatricians both flag it as a genuine concern. (Source: [ASPCA — Cats and Babies](https://www.aspca.org/pet-care/cat-care/cats-and-babies))
 
@@ -230,86 +215,143 @@ During the decision discussion, Eric explored premium convertible cribs that cou
 (Source: [WonderBaby — Cat Cover for Bassinet](https://www.wonderbaby.org/articles/cat-cover-for-bassinet))
 (Source: [GetForBaby — How to Keep Cat Out of Bassinet](https://getforbaby.com/how-to-keep-cat-out-of-bassinet/))
 
-## Crib Mattress Research
+## Travel Crib Research
 
-*Added 2026-03-02*
+### Why You Need One
+
+Neither the SNOO nor the PBK Kendall travels. For overnight trips to family, vacations, or any night away from home, baby needs a CPSC-compliant sleep surface. Options:
+
+1. **Buy a travel crib** — guarantees a safe, familiar sleep surface everywhere
+2. **Rent at destination** (BabyQuip, hotel-provided) — cheaper upfront but you're trusting unknown condition/cleanliness, and baby may sleep worse on an unfamiliar surface
+3. **Bring a Pack 'n Play** — affordable but bulky and heavy for transit
+
+*For apartment parents who also use car + transit, a lightweight travel crib that stores compactly is the practical choice.*
+
+### CPSC Safety Note
+
+All travel cribs / non-full-size cribs must meet ASTM F406 (federal standard for non-full-size cribs and play yards). Stick with established brands — CPSC issued a 2026 warning against Tuyedoqe travel bassinets sold on Amazon for strangulation/fall hazards and violation of infant sleep product standards. (Source: [CPSC — Tuyedoqe Warning 2026](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Tuyedoqe-Travel-Bassinets-Due-to-Risk-of-Serious-Injury-or-Death-from-Strangulation-and-Fall-Hazards-Violates-Mandatory-Standard-for-Infant-Sleep-Products))
+
+> **Key takeaway (Oster framework):** All ASTM F406-compliant travel cribs pass the same safety standard. The real variables are weight, packed size, mattress comfort, and convenience. Don't pay a premium for "safety" — pay for portability.
+
+### Comparison
+
+| Feature | **Guava Lotus** | **BabyBjorn Travel Crib Light** | **Newton Compact Travel Crib** | **UPPAbaby Remi** | **Graco Pack 'n Play** |
+|---------|----------------|--------------------------------|-------------------------------|-------------------|----------------------|
+| **Price** | ~$300 | ~$230 | ~$250 | ~$400 | ~$65 |
+| **Weight** | 13 lbs | 13 lbs | 13 lbs | 20 lbs | 18.5 lbs |
+| **Folded size** | 24"×12"×8" (backpack) | 19"×23.5"×5.5" (bag) | Overhead-bin friendly (backpack) | 11"×10"×28.5" (bag) | ~28"×8"×28" (bag) |
+| **Open size** | 42"×32"×25"H | 42"×32"×25"H | Similar to Lotus | 40.5"×26"×28.5"H | ~28"×40"×29"H |
+| **Mattress** | 1" pad (thin) | ~2" pad (thickest/most comfortable tested) | Wovenaire® breathable (1.5") | Triple-layer air mesh, organic cotton cover | Thin pad |
+| **Certifications** | GREENGUARD Gold, ASTM F406 | Oeko-Tex 100 | GREENGUARD Gold, ASTM F406 | GREENGUARD Gold, ASTM F406 | ASTM F406 |
+| **Age range** | Birth to 3 years (no weight limit — floor-level) | Birth to ~3 years | Birth to toddler | Birth to 35" tall; bassinet to 20 lbs | Birth to 35" / 30 lbs |
+| **Setup** | ~15 sec (3D Z-Fold) | One-motion (~seconds) | Quick fold | One-step, one-hand | Push-button fold |
+| **Key feature** | **Zip-open side door** — reach in without lifting baby out. Backpack carry. | **Best mattress comfort.** Thinnest fold (5.5"). | **Best breathability** — 90% air Wovenaire core | **Includes bassinet insert** + zip-open side. UPPAbaby ecosystem match. | **Cheapest by far.** Universally available. |
+| **Situation Fit** | **Excellent** — backpack carry ideal for transit + air travel. Zip-side is a genuine convenience. Narrower fold than BabyBjorn. Thin mattress is the tradeoff. | **Excellent** — same weight, most comfortable mattress, easiest setup. Flattest fold (5.5" thin) but wider than Lotus. No zip-side. | **Good** — breathability advantage for July baby; less established track record as travel crib; limited reviews | **Fair** — great product but 20 lbs and $400 defeats the purpose of "travel" crib for transit users. Better if you're primarily driving. | **Fair** — hard to beat at $65 but heavy (18.5 lbs) and bulky. Fine for grandparents' house (leave it there). Not practical for transit travel. |
+
+(Sources: [BabyGearLab — Best Travel Cribs](https://www.babygearlab.com/topics/getting-around/best-travel-crib), [Mommyhood101 — Best Travel Cribs 2026](https://mommyhood101.com/best-playards-travel-cribs), [Guava Family — Lotus](https://www.guavafamily.com/products/lotus-everywhere-travel-crib), [BabyBjorn — Travel Crib Light](https://www.babybjorn.com/products/baby-cradle-and-travel-crib/travel-crib-light/), [Newton Baby — Compact Travel Crib](https://www.newtonbaby.com/products/compact-travel-crib))
+
+> **Our situation:** You need something that (a) stores compactly in the apartment when not traveling, (b) is light enough for transit + air travel, and (c) is safe and comfortable for a July baby. That narrows it to the **Guava Lotus** and **BabyBjorn Travel Crib Light** — both 13 lbs, both fold small, both trusted brands with no CPSC recalls.
+>
+> The choice between them:
+> - **Guava Lotus (~$300):** Zip-open side door is a genuine convenience (reach baby without lifting over the side at 3 AM). Narrower fold (24"×12"×8", backpack carry, carry-on friendly). Thinner mattress is the main tradeoff. BabyGearLab and Mommyhood101 top picks.
+> - **BabyBjorn Travel Crib Light (~$230):** Thickest, most comfortable mattress in the category. Flattest fold (19"×23.5"×5.5" — thinner but wider than Lotus). One-motion setup is truly instant. $70 cheaper. No zip-side (must lift baby out over the top). BabyGearLab #1 overall.
+>
+> **Budget play:** A Graco Pack 'n Play (~$65) at grandparents' house solves the most common travel scenario at a fraction of the cost. Not practical for transit/air travel, but if most trips are by car to the same destination, this is the pragmatic move.
+>
+> > **For partner discussion:** Do you want to invest in one good travel crib (~$230-300) for all travel scenarios, or start with a cheap Pack 'n Play at the most-visited destination and buy a proper travel crib later if you find you need it?
+
+---
+
+## Crib Mattress Research
 
 ### Safety Requirements Checklist
 
 Before comparing specific mattresses, every crib mattress must meet these non-negotiable requirements:
 
 - [ ] **CPSC compliant (16 CFR 1241)** — As of August 2022, all crib mattresses sold in the US must pass the CPSC's mandatory firmness test based on ASTM F2933-21. This is a pass/fail standard — any compliant mattress sold by an established brand meets the safety floor. (Source: [CPSC Final Rule — Crib Mattress Safety Standard](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Approves-New-Federal-Safety-Standard-for-Crib-Mattresses-Rule-to-Provide-a-Safer-Marketplace-for-Parents))
-- [ ] **Standard size: minimum 51 5/8" x 27 1/4", max 6" thick** — Federal requirement. The DaVinci Sammy Scallop takes a standard 52"x28" crib mattress.
+- [ ] **Standard size: minimum 51 5/8" x 27 1/4", max 6" thick** — Federal requirement. The PBK Kendall Convertible Crib takes a standard 52"×28" crib mattress (platform: 52.75" × 28").
 - [ ] **Two-finger test: no more than two fingers (1") gap between mattress and crib side** — JPMA recommendation confirmed by DaVinci's own support docs. (Source: [DaVinci Support — Mattress Sizing](https://support.davincibaby.com/hc/en-us/articles/360056916734-What-size-mattress-should-I-buy))
 - [ ] **Firm and flat** — AAP safe sleep requirement. Both sides of a dual-firmness mattress must meet the CPSC firmness test; the "toddler side" is only relatively softer, not soft. (Source: [AAP Safe Sleep Policy 2022](https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304))
 - [ ] **No recalls** — Check CPSC before purchasing. Recent 2025-2026 recalls have targeted off-brand aftermarket mattresses sold on Amazon (KEAWIS, Modera, Mengna) for failing fit and firmness standards. (Source: [CPSC Safe Sleep](https://www.cpsc.gov/SafeSleep))
 
 > **Key takeaway (Oster framework):** All CPSC-compliant crib mattresses pass the same mandatory firmness test. The marginal safety difference between a $60 and $300 mattress is near-zero — the test is pass/fail. What differs is materials (organic vs. synthetic), durability, breathability, and convenience features. Buy from an established brand, verify no recalls, and focus on fit, comfort, and practical features.
 
-### Comparison: Top 3 Options for DaVinci Sammy Scallop
+### Comparison: Top Options for PBK Kendall Convertible Crib
 
-| Feature | **Babyletto Pure Core** | **Colgate Eco Classica III** | **Graco Premium Foam** |
-|---------|--------------------------|------------------------------|------------------------|
-| **Price** | ~$150-200 (w/ waterproof cover) | ~$150-200 | ~$90 |
-| **Dimensions** | 52" x 27.75" x 5" | 51.7" x 27" x 6" | 51.8" x 27.5" x 4.5" |
-| **Weight** | ~11 lbs | ~9.6 lbs | ~7 lbs |
-| **Dual Firmness** | YES — firm infant / softer toddler | YES — firm infant / softer toddler | NO — single firmness |
-| **Waterproof** | Yes (removable cover) | Yes (built-in, non-removable) | Water-resistant (removable, machine-washable) |
-| **Certifications** | GREENGUARD Gold | GREENGUARD Gold, CertiPUR-US | GREENGUARD Gold, CertiPUR-US, Oeko-Tex 100 |
-| **Core Material** | 100% recyclable polyester (no polyurethane) | Polyurethane foam (plant-based oils) | Polyurethane foam |
-| **Breathability** | Good — non-foam core breathes better | Moderate — organic cotton cover with perforations | Poor — reviewers note it gets hot in summer |
-| **Made In** | Taiwan | USA | China |
-| **Situation Fit** | **Excellent** — best breathability in-budget for July baby; dual firmness for convertible crib; removable cover for cat household | **Good** — dual firmness; organic cotton cover; non-removable cover is harder to clean | **Fair** — lightest and cheapest; but no dual firmness, poor breathability for July baby |
+| Feature | **Newton/DaVinci 2-Stage** | **Babyletto Pure Core** | **Colgate Eco Classica III** | **Graco Premium Foam** |
+|---------|---------------------------|--------------------------|------------------------------|------------------------|
+| **Price** | ~$300 | ~$150-200 (w/ waterproof cover) | ~$150-200 | ~$90 |
+| **Dimensions** | 52" x 28" x 5.5" | 52" x 27.75" x 5" | 51.7" x 27" x 6" | 51.8" x 27.5" x 4.5" |
+| **Weight** | ~14 lbs | ~11 lbs | ~9.6 lbs | ~7 lbs |
+| **Dual Firmness** | YES — firm infant / softer toddler | YES — firm infant / softer toddler | YES — firm infant / softer toddler | NO — single firmness |
+| **Waterproof** | **No** — need separate waterproof mattress pad | Yes (removable cover) | Yes (built-in, non-removable) | Water-resistant (removable, machine-washable) |
+| **Certifications** | GREENGUARD Gold, CPSC/ASTM | GREENGUARD Gold | GREENGUARD Gold, CertiPUR-US | GREENGUARD Gold, CertiPUR-US, Oeko-Tex 100 |
+| **Core Material** | Wovenaire® (food-grade polymer, 90% air) | 100% recyclable polyester (no polyurethane) | Polyurethane foam (plant-based oils) | Polyurethane foam |
+| **Breathability** | **Best-in-class** — 90% air core, not foam | Good — non-foam core breathes better | Moderate — organic cotton cover with perforations | Poor — reviewers note it gets hot in summer |
+| **Washable** | **Fully washable** core + removable cover | Cover only | Cover only (non-removable) | Cover only (removable, machine-washable) |
+| **Kendall Fit** | 0.75" length gap, 0" width gap — passes 2-finger test ✓ | Standard size — passes 2-finger test ✓ | Standard size — passes 2-finger test ✓ | Standard size — passes 2-finger test ✓ |
+| **Situation Fit** | **Excellent** — best breathability for July baby; fully washable core ideal for blowouts; dual firmness for convertible crib. Pricier, no built-in waterproof cover. | **Very Good** — best breathability in-budget; dual firmness; removable waterproof cover practical for cat household | **Good** — dual firmness; organic cotton cover; non-removable cover is harder to clean | **Fair** — lightest and cheapest; but no dual firmness, poor breathability for July baby |
 
-> **Recommendation: Babyletto Pure Core with Dry Waterproof Cover (2-Stage)** (~$150-200)
+> **Two strong options — your call:**
 >
-> Why it fits:
-> - Dual firmness aligns with the Sammy Scallop's 4-in-1 conversion path (buy-once)
-> - Non-foam core is more breathable than polyurethane — best in-budget option for a July baby
+> **Option A: Newton/DaVinci 2-Stage** (~$300) — best breathability pick for July baby
+> - Wovenaire® core is 90% air — unmatched airflow for a summer baby
+> - Fully washable core (not just the cover) — major win for blowouts
+> - Dual firmness for crib-to-toddler conversion
+> - GREENGUARD Gold, CPSC/ASTM compliant
+> - Confirmed fit with Kendall Convertible Crib (0.75" length gap, passes 2-finger test)
+> - **Catch:** No built-in waterproof cover — need a separate waterproof mattress pad (~$15-25)
+> - **Total with pad: ~$315-325**
+>
+> **Option B: Babyletto Pure Core with Dry Waterproof Cover (2-Stage)** (~$150-200) — best value pick
+> - Non-foam core is more breathable than polyurethane — best in-budget
 > - GREENGUARD Gold certified, no polyurethane, no flame retardants
+> - Built-in waterproof removable cover — practical with 2 cats, no extra pad needed
 > - At ~11 lbs, light enough for apartment sheet changes
-> - Waterproof removable cover is practical with 2 cats
-> - Standard size fits the Sammy Scallop (verify two-finger test after delivery)
+> - Standard size fits the Kendall (passes 2-finger test)
 >
 > **Budget alternative:** Graco Premium Foam (~$90) if staying under $100 is critical, but you lose dual firmness (may need a second mattress for toddler stage) and breathability (gets hot in summer).
->
-> **Registry stretch pick:** Newton Baby Essential (~$200-250) — 90% air core is unmatched for breathability. Strong registry candidate for a July baby.
 
-(Sources: [BabyGearLab — Best Crib Mattress](https://www.babygearlab.com/topics/nursery-furniture/best-crib-mattress), [Mommyhood101 — Best Crib Mattresses 2026](https://mommyhood101.com/best-crib-mattress), [Babyletto — Pure Core Mattress](https://babyletto.com/products/pure-core-crib-mattress-w-dry-waterproof-cover-2-stage), [Consumer Reports — Crib Mattress Buying Guide](https://www.consumerreports.org/babies-kids/crib-mattresses/buying-guide/))
+(Sources: [BabyGearLab — Best Crib Mattress](https://www.babygearlab.com/topics/nursery-furniture/best-crib-mattress), [Mommyhood101 — Best Crib Mattresses 2026](https://mommyhood101.com/best-crib-mattress), [Babyletto — Pure Core Mattress](https://babyletto.com/products/pure-core-crib-mattress-w-dry-waterproof-cover-2-stage), [Newton Baby — 2-Stage Crib Mattress](https://www.newtonbaby.com/products/crib-mattress), [Consumer Reports — Crib Mattress Buying Guide](https://www.consumerreports.org/babies-kids/crib-mattresses/buying-guide/))
 
 ---
 
 ## Decision
 
-> **Status:** Decided — discussed with partner *2026-03-01*
+> **Status:** Ready — both phases gifted
 >
-> **Chosen approach: Phased (bassinet → full-size convertible crib)**
+> **Chosen approach: Phased (bassinet → crib) — both gifted**
 >
-> **Phase 1 — Bedside bassinet for bedroom (birth to ~5 months):**
-> **Arm's Reach Clear-Vue** (~$200) or **HALO BassiNest 4.0** (~$280)
-> - Bed height confirmed 24-30" — Arm's Reach is compatible
-> - Either works; final pick between these two is lower-stakes
-> - Add a breathable mesh cover/tent for cat safety (~$30-40)
+> **Phase 1 — SNOO Smart Sleeper (gifted):**
+> - FDA-authorized medical device for safe sleep. Auto-rocking, white noise, keeps baby on back with built-in SNOO Sack swaddle
+> - Retail: $1,695 — received as gift
+> - Uses proprietary SNOO fitted sheets and SNOO Sacks (swaddles). SNOO comes with one sheet and 3 sizes of SNOO Sack — buy 2-3 extra sheets (~$32-35 each) for rotation
+> - Usable birth to ~5-6 months (or ~25 lbs / when baby starts rolling)
+> - **Cat safety note:** SNOO's mesh sides and secure swaddle system reduce cat risk, but still add a breathable mesh cover/tent (~$30-40) as an extra barrier
 >
-> **Phase 2 — Full-size convertible crib (~5 months onward):**
-> **DaVinci Sammy Scallop 4-in-1** (~$299)
-> - Full-size crib (53.75" × 29.5" × 35"), standard crib mattress (52" × 28")
-> - Converts: crib → toddler bed → daybed → full-size bed
-> - GREENGUARD Gold, NZ pine, 4 adjustable mattress positions, 50 lb limit
-> - 4.8/5 rating — available in Light Sage, Strawberry Red, Powder Blue, White
-> - Replaces originally considered DaVinci Kalani mini crib — full-size conversion path is better long-term value for ~$100 more
-> - *Footprint note:* Larger than mini crib (~54"×30" vs ~40"×29") — measure nursery nook space
+> **Phase 2 — PBK Kendall Convertible Crib (gifted):**
+> - **2-in-1 convertible:** crib → toddler bed (conversion kit sold separately, ~$200)
+> - **Specs:** 57"W × 32"L × 44"H overall; standard crib mattress platform (52.75" × 28")
+> - **Materials:** Solid poplar/pine frame, beech slats, mortise-and-tenon joinery
+> - **Certifications:** GREENGUARD Gold, Fair Trade Certified
+> - **3 mattress heights:** 14.5", 19.5", 24.5"
+> - **Retail:** ~$600 (received as gift)
+> - **Mattress fit confirmed:** Standard 52"×28" — DaVinci/Newton 2-Stage fits (0.75" length gap, 0" width gap, passes 2-finger test)
+> - Less conversion flexibility than the DaVinci Sammy Scallop (2-in-1 vs 4-in-1) but moot since it was gifted
+> - Measure nursery nook space for fit (57"×32" footprint — slightly larger than Sammy Scallop)
 >
 > **Cat safety:** Breathable mesh cover/tent (~$30-40) + deterrent training 4-6 weeks before due date
 >
-> **If sleep deprivation is severe:** Consider SNOO rental (~$159/month) for the first 4-5 months instead of buying a bassinet. Total cost ~$700-800 but may be worth it for two working parents.
+> **Travel crib — Guava Lotus (~$300, decided):** Zip-open side door, backpack carry (24"×12"×8"), GREENGUARD Gold, birth to 3 years. See [travel crib research](#travel-crib-research).
 >
 > **Budget:**
-> - Phase 1 bassinet: $200-280
-> - Phase 2 crib: $299
-> - Crib mattress: $60-150
+> - Phase 1 bassinet: **$0** (gifted)
+> - Phase 2 crib: **$0** (gifted)
+> - SNOO extra sheets: ~$65-105 (2-3 sheets)
+> - Crib mattress: ~$315-325 (Newton 2-Stage ~$300 + waterproof pad ~$15-25)
 > - Cat safety cover: $30-40
-> - **Total: ~$590-770**
+> - Travel crib: ~$300 (Guava Lotus)
+> - **Total: ~$710-770**
 
 ---
 
@@ -317,17 +359,16 @@ Before comparing specific mattresses, every crib mattress must meet these non-ne
 - [x] Research options that fit dimensions
 - [x] Measure bed height to confirm Arm's Reach compatibility (24-30" range) — confirmed compatible
 - [x] Decide: bassinet-first (Phase 1+2) vs. mini-crib-only approach — chose phased (bassinet + full-size crib)
-- [ ] Measure bedroom space for sleep area — especially confirm full-size crib footprint (~54"×30") fits nursery nook
-- [ ] Choose between Arm's Reach Clear-Vue and HALO BassiNest 4.0 — try in store if possible
-- [ ] Choose DaVinci Sammy Scallop color (Light Sage, Strawberry Red, Powder Blue, White)
+- [x] Purchase Phase 1 bassinet — **Gifted:** SNOO Smart Sleeper
+- [x] Purchase crib — **Gifted:** PBK Kendall Convertible Crib
+- [x] Verify Kendall takes standard crib mattress (52"×28") — **Confirmed:** Platform is 52.75"×28"; Newton/DaVinci and Babyletto Pure Core both fit (passes 2-finger test)
+- [ ] Measure bedroom space for SNOO + Kendall footprints in nursery nook (Kendall: 57"W × 32"L × 44"H)
+- [ ] Buy 2-3 extra SNOO fitted sheets (~$32-35 each)
 - [ ] Research breathable mesh crib tents (check CPSC recalls before buying)
 - [ ] Consider cat deterrent strategy — see [cat prep](../03-space/cat-prep.md)
-- [ ] Set up sleep surface 4-6 weeks before due date to train cat to avoid it
-- [ ] Purchase Phase 1 bassinet by week 28-30
-- [ ] Purchase DaVinci Sammy Scallop crib by week 32-34
-- [ ] Buy crib mattress — **Babyletto Pure Core 2-Stage w/ Dry Waterproof Cover** (~$150-200) or add Newton Baby Essential to registry as stretch pick
+- [ ] Set up SNOO 4-6 weeks before due date to train cat to avoid it
+- [x] ~~Choose crib mattress~~ — **Decided:** Newton 2-Stage (~$300). Best breathability for July baby, fully washable core
+- [ ] Buy waterproof mattress pad for Newton mattress (~$15-25) — no built-in waterproof cover
+- [x] ~~Decide on travel crib~~ — **Decided:** Guava Lotus (~$300)
+- [ ] Add Guava Lotus travel crib to Babylist registry (~$300, enable group gifting)
 
-*Created 2026-02-28*
-*Updated 2026-02-28: Full research completed — bassinets, bedside sleepers, mini cribs, cat safety*
-*Updated 2026-03-01: Decision reached — phased approach with DaVinci Sammy Scallop 4-in-1 replacing Kalani mini crib*
-*Updated 2026-03-02: Crib mattress research added — Babyletto Pure Core 2-Stage recommended*

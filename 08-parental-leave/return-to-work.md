@@ -33,5 +33,3 @@ nav_order: 3
 - Check in with partner regularly about how it's going
 
 ---
-
-*Created 2026-02-28*

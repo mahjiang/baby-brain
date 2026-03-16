@@ -109,8 +109,6 @@ Even if planning vaginal delivery, it's good to have preferences documented:
 
 ## Discussion Notes
 
-*Space for notes from partner discussion and provider conversations. Date-stamp entries.*
+*Space for notes from partner discussion and provider conversations.*
 
 ---
-
-*Created 2026-02-28*

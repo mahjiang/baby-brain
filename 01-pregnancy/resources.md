@@ -25,5 +25,3 @@ nav_order: 3
 - [Books](../10-resources/books.md) for full reading list with reviews
 
 ---
-
-*Created 2026-02-28*

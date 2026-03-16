@@ -24,6 +24,7 @@ nav_order: 3
 - No inclined sleepers, DockATots, or Boppy loungers for sleep (recalled/dangerous)
 - Keep room at comfortable temperature; dress baby in a sleep sack instead of blankets
 - Fan in room may reduce SIDS risk (Source: [Archives of Pediatrics, 2008](https://pubmed.ncbi.nlm.nih.gov/18838649/))
+- AAP does **not** recommend home pulse oximeters (Owlet, etc.) for SIDS prevention in healthy infants — see [Owlet analysis](../02-gear/nice-to-have.md#wearable-pulse-oximeter-owlet-dream-sock)
 
 ## Sleep Patterns by Age
 
@@ -53,5 +54,3 @@ Evidence-based approaches (all have research support; choose what fits your fami
 - Cat must not have access to baby's sleep space
 
 ---
-
-*Created 2026-02-28*

@@ -46,8 +46,6 @@ See [cat prep](cat-prep.md) for full details.
 
 ## Research
 
-*Added 2026-03-01*
-
 ### Baby-Proofing Timeline: What the Evidence Says
 
 *Evidence:* The AAP (via HealthyChildren.org) and CPSC provide age-specific safety guidance. The timeline above aligns well with developmental milestones, but here is the data behind it:
@@ -238,8 +236,6 @@ With 2 cats, this requires extra planning. See [cat prep](cat-prep.md) for the f
 
 ### Baby-Proofing Products: What to Buy
 
-*Added 2026-03-01*
-
 | Category | Recommended Product | Est. Cost | When to Buy | Situation Fit |
 |----------|-------------------|-----------|-------------|---------------|
 | **Outlet covers** | Sliding plate covers (NOT basic plugs) | ~$3-5/each | ~4-5 months | **Good** -- effective, renter-friendly |
@@ -261,8 +257,6 @@ See also: [essentials list](../02-gear/essentials.md) for tracking purchases.
 ---
 
 ### Our Situation
-
-*Added 2026-03-01*
 
 **Apartment (renter):** This is actually the biggest factor. All product recommendations above are filtered for renter-friendliness. Key considerations:
 - Adhesive/pressure-mount solutions preferred over screws
@@ -289,5 +283,3 @@ See also: [essentials list](../02-gear/essentials.md) for tracking purchases.
 - [Essentials / gear list](../02-gear/essentials.md) -- tracking baby-proofing supply purchases
 
 ---
-
-*Created 2026-02-28*

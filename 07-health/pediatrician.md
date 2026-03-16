@@ -41,5 +41,3 @@ nav_order: 1
 > **Decision date:** TBD
 
 ---
-
-*Created 2026-02-28*

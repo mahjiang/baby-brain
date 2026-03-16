@@ -10,8 +10,6 @@ nav_order: 2
 
 ## Insurance Coverage
 
-*Added 2026-03-02*
-
 *Evidence:* The Affordable Care Act (ACA) requires most health insurance plans to cover a breast pump at no cost as a preventive service. (Source: [HealthCare.gov Breastfeeding Benefits](https://www.healthcare.gov/coverage/breast-feeding-benefits/)) Grandfathered plans (pre-2010) may be exempt. (Source: [HHS.gov ACA FAQ](https://www.hhs.gov/answers/health-insurance-reform/are-breast-pumps-covered-by-the-affordable-care-act/index.html))
 
 **Most commonly fully covered models (verified current as of early 2026):**
@@ -38,11 +36,8 @@ nav_order: 2
 
 | Insurance Plan | Covered Pumps | Vendor | Prescription Needed? | Order Date |
 |---------------|---------------|--------|---------------------|------------|
-| | | | | |
 
 ## Pump Types
-
-*Updated 2026-03-02: Added research, Situation Fit column, price ranges*
 
 | Type | Examples | Pros | Cons | Price Range | Situation Fit |
 |------|----------|------|------|-------------|---------------|
@@ -56,8 +51,6 @@ nav_order: 2
 ---
 
 ## Category Leaders — Specific Models
-
-*Added 2026-03-02*
 
 *Note: Prices verified at retail sources as of early March 2026 (Target, manufacturer site). Prices are perishable — verify before purchase. Insurance pricing is completely separate.*
 
@@ -81,8 +74,6 @@ nav_order: 2
 
 ## Wearable Pump Deep-Dive
 
-*Added 2026-03-02*
-
 Wearable pumps are particularly relevant for this situation: returning to work after paid leave ends, urban commute by transit, and the practical reality that pumping at work requires discretion and mobility.
 
 *Evidence:* The ABM recommends that mothers who need to express milk while separated from their infant use a double-electric pump at least every 2–3 hours to maintain supply. A wearable pump can fulfill this role if suction is adequate. (Source: [ABM Protocols](https://www.bfmed.org/protocols))
@@ -101,8 +92,6 @@ Wearable pumps are particularly relevant for this situation: returning to work a
 ---
 
 ## Our Situation
-
-*Added 2026-03-02*
 
 **Active constraints mapped to pump decisions:**
 
@@ -152,6 +141,3 @@ Wearable pumps are particularly relevant for this situation: returning to work a
 - [Breastfeeding prep](../06-feeding/breastfeeding-prep.md) — latch, supply, and feeding plan decisions
 
 ---
-
-*Created 2026-02-28*
-*Updated 2026-03-02: Added insurance coverage research with ACA context and commonly covered models; expanded pump types table with Situation Fit column and price ranges; added category leaders comparison table with current verified prices; added wearable pump deep-dive; added Our Situation section; updated Decision status*

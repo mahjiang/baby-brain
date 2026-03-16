@@ -103,8 +103,6 @@ Problems:
 ```markdown
 ## Options to Research
 
-*Added 2026-02-28*
-
 | Model | Type | Weight (carrier) | Price | Stroller Compat. | Situation Fit |
 |-------|------|-------------------|-------|-------------------|---------------|
 | **Chicco KeyFit 35** | Infant carrier | 9.6 lb | ~$220 | Extensive (adapters for most brands) | **Good** — affordable, moderate weight for transit, broad stroller compat. |

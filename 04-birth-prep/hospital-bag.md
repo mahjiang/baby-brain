@@ -58,5 +58,3 @@ nav_order: 3
 - [ ] Hat (optional, depending on season)
 
 ---
-
-*Created 2026-02-28*

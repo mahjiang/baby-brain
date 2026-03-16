@@ -47,8 +47,6 @@ nav_order: 4
 
 ## Research
 
-*Added 2026-03-01*
-
 ### How Much Baby Clothing Do You Actually Need?
 
 Babies grow fast — gaining 5-7 oz per week and 1-1.5 inches per month in the first three months. They typically move up a clothing size every 2-3 months, and some skip sizes entirely. The single biggest storage mistake new parents make is overbuying in any one size. (Source: [Gerber Childrenswear — How Long Do Babies Wear Newborn Clothes](https://www.gerberchildrenswear.com/blogs/news/how-long-do-babies-wear-newborn-clothes))
@@ -69,8 +67,6 @@ Babies grow fast — gaining 5-7 oz per week and 1-1.5 inches per month in the f
 
 ### Clothing Rotation System
 
-*Added 2026-03-01*
-
 A practical system for apartment living with limited drawer/closet space:
 
 1. **Active drawer:** Current size only, file-folded (KonMari style — vertical so you can see everything). One drawer for day clothes, one for sleepwear.
@@ -82,8 +78,6 @@ A practical system for apartment living with limited drawer/closet space:
 *Opinion: The two-basket laundry hack (one for dirty, one for outgrown) is widely recommended by professional organizers as the simplest approach for exhausted new parents.* (Source: [Newton Baby — How to Organize Baby Clothes](https://www.newtonbaby.com/blogs/nursery/how-to-organize-baby-clothes))
 
 ### Product Recommendations
-
-*Added 2026-03-01*
 
 **Active constraints for product filtering:**
 - Apartment (limited closet space, no garage/attic for overflow)
@@ -124,8 +118,6 @@ A portable diaper caddy is essential for apartment living — you change diapers
 > **Our situation:** With cats and no dedicated nursery, prioritize lidded/zipped storage over open bins. The IKEA SKUBB or Iris Weathertight totes are the best picks for keeping stored clothes clean and cat-hair-free. Both are buy-once items that work well beyond the baby phase.
 
 ### Storage Safety
-
-*Added 2026-03-01*
 
 #### Washing Before First Use
 
@@ -170,8 +162,6 @@ Cedar blocks, chips, or sachets deter moths through natural oils without toxic c
 
 ### Wall-Mounted Storage Safety
 
-*Added 2026-03-01*
-
 Wall-mounted shelves, pegboards, and organizers can reclaim vertical space in an apartment — but they carry real risks above areas where baby lies.
 
 **Rules for mounting above a changing area:**
@@ -186,8 +176,6 @@ Wall-mounted shelves, pegboards, and organizers can reclaim vertical space in an
 > For more wall-mounting and anchoring guidance, see [baby-proofing](baby-proofing.md).
 
 ### Safe Used vs. Buy New
-
-*Added 2026-03-01*
 
 | Item Category | Safe Used? | Key Safety Rules | Source |
 |--------------|-----------|-----------------|--------|
@@ -209,8 +197,6 @@ Wall-mounted shelves, pegboards, and organizers can reclaim vertical space in an
 
 ### Our Situation
 
-*Added 2026-03-01*
-
 **Active constraints applied to organization research:**
 
 - **Apartment, no dedicated nursery:** Every storage solution must earn its footprint. Vertical solutions (hanging organizers, over-door pockets, wall-mounted shelves) take priority over floor-based furniture. Under-bed and under-crib space is prime storage real estate. See [nursery nook setup](nursery-nook.md) for how these fit into the nursery zone.
@@ -229,5 +215,3 @@ Wall-mounted shelves, pegboards, and organizers can reclaim vertical space in an
 - [Clothing](../02-gear/clothing.md) -- clothing quantities, sizing details, what to register for
 
 ---
-
-*Created 2026-02-28*

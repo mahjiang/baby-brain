@@ -25,8 +25,6 @@ nav_order: 7
 
 ## What to Buy Before Baby vs. What to Wait On
 
-*Added 2026-02-28*
-
 ### Buy Before Baby Arrives
 
 - **Nursing pillow** — You'll want this from day one if breastfeeding
@@ -48,8 +46,6 @@ nav_order: 7
 
 ## Breast Pump Guide
 
-*Added 2026-02-28*
-
 ### Insurance Coverage (ACA)
 
 The Affordable Care Act requires most health insurance plans to cover a breast pump at no cost. (Source: [HealthCare.gov Breastfeeding Benefits](https://www.healthcare.gov/coverage/breast-feeding-benefits/))
@@ -64,7 +60,7 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 - "Grandfathered" plans (pre-2010) may not be required to cover pumps (Source: [HHS.gov ACA Breast Pump FAQ](https://www.hhs.gov/answers/health-insurance-reform/are-breast-pumps-covered-by-the-affordable-care-act/index.html))
 - Coverage varies: your plan may only cover specific brands or pump types
 - Wearable/hands-free pumps are more frequently covered than in previous years, but often still require an upgrade fee out of pocket
-- *Updated 2026-03-02:* The **Spectra S2 Plus remains the most commonly fully covered model** through insurance (most major plans: Blue Cross Blue Shield, Aetna, United Healthcare, Cigna, etc.). The Spectra S1 Plus is often covered with a small upgrade fee ($29–99). Medela Pump in Style is also widely covered. (Sources: [Aeroflow Spectra S2](https://aeroflowbreastpumps.com/spectra-s2-plus-double-electric-breast-pump), [1 Natural Way Spectra](https://www.1naturalway.com/brands/spectra), [Byram Baby Spectra](https://www.byrambaby.com/blog/post/how-to-order-an-insurance-covered-spectra-breast-pump))
+- The **Spectra S2 Plus remains the most commonly fully covered model** through insurance (most major plans: Blue Cross Blue Shield, Aetna, United Healthcare, Cigna, etc.). The Spectra S1 Plus is often covered with a small upgrade fee ($29–99). Medela Pump in Style is also widely covered. (Sources: [Aeroflow Spectra S2](https://aeroflowbreastpumps.com/spectra-s2-plus-double-electric-breast-pump), [1 Natural Way Spectra](https://www.1naturalway.com/brands/spectra), [Byram Baby Spectra](https://www.byrambaby.com/blog/post/how-to-order-an-insurance-covered-spectra-breast-pump))
 
 ### Pump Types Comparison
 
@@ -75,7 +71,7 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 | **Double electric** | Fast (both sides at once), hospital-grade suction, most efficient for building/maintaining supply | Needs outlet or battery, less portable, tubing to manage | Regular pumping, EP, combo feeding, returning to work | Spectra S1 (~$200), Spectra S2 (~$160), Medela Pump in Style (~$170) | $150–$300 |
 | **Wearable / hands-free** | Fits in bra, no tubes, pump while doing other things, discreet | Suction generally lower than traditional (though newer models closing gap), pricey, may not work for all body types | Pumping at work, multitasking, on-the-go | Elvie Stride 2 (~$270), Momcozy S12 Pro (~$150), Momcozy M9 (~$100), Willow Go (~$200) | $100–$300 |
 
-*Updated 2026-03-02:* **Wearable pump landscape update:** The wearable pump market has improved significantly. Key 2025-2026 developments:
+**Wearable pump landscape update:** The wearable pump market has improved significantly. Key 2025-2026 developments:
 - **Elvie Stride 2** launched at ~$270 — hospital-grade suction up to -300 mmHg (significant improvement over original Elvie Pump's 220 mmHg), 6 nipple sizing inserts in the box, ultra-soft silicone cups, insurance-eligible. (Source: [Elvie Stride 2](https://elvie.com/products/elvie-stride-2))
 - **Momcozy S12 Pro and M9** are now insurance-eligible through many plans (covered by some Tricare, UPMC, Geisinger, and others; FSA/HSA eligible everywhere). Suction up to 300 mmHg with double-seal flange. More affordable than Elvie wearables. (Source: [Aeroflow Momcozy](https://aeroflowbreastpumps.com/breast-pumps/momcozy))
 - **Willow Go** and **Eufy S1 Pro** also now insurance-eligible through select plans.
@@ -95,13 +91,9 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 
 ## Items — Detailed Research
 
-*Added 2026-02-28*
-
 ### Nursing Pillow
 
-**Status:** Researching
-
-*Updated 2026-03-02: Prices verified, Blessed Nest added (BabyGearLab Editor's Choice), Situation Fit column added.*
+**Status:** Decided — **My Brest Friend Deluxe** (~$57)
 
 | Option | Price | Shape / Support | Stability | Versatility | Cover | Situation Fit |
 |--------|-------|-----------------|-----------|-------------|-------|---------------|
@@ -129,8 +121,6 @@ The Affordable Care Act requires most health insurance plans to cover a breast p
 - **Anti-colic venting** helps reduce gas from air swallowing
 - Buy **2-3 bottles of one brand** first, then buy more if baby accepts them
 - Babies are notoriously picky — what works for one may not work for yours
-
-*Updated 2026-03-02: Prices verified; Comotomo Gen 2 (2026 release) noted; Situation Fit column added; category leaders confirmed.*
 
 **2026 note:** Comotomo released a Gen 2 version (labeled "2026 Release" on Amazon) with a redesigned nipple (truer slow-flow via laser puncture, reinforced to prevent collapse), improved ring assembly to reduce leaks, and clearer flow-level markings. Core design (wide-neck silicone, dual anti-colic vents) unchanged. The Gen 2 is the current version to buy for newborns. (Source: [Amazon Comotomo Gen 2 listing](https://www.amazon.com/Comotomo-Silicone-Bottle-2-2026-Release/dp/B0G6N65XVL))
 
@@ -258,13 +248,9 @@ A 2024 peer-reviewed study found that paced bottle feeding effectively slowed fe
 
 ## Updated Items Summary
 
-*Added 2026-02-28*
-
-*Updated 2026-03-02: Prices verified/corrected; Comotomo Gen 2 noted.*
-
 | Item | Top Pick | Price | Status | Buy When |
 |------|----------|-------|--------|----------|
-| Nursing pillow | My Brest Friend Deluxe (stability) or Boppy (versatility) | ~$40–57 | Researched | Before baby — registry item |
+| Nursing pillow | My Brest Friend Deluxe | ~$57 | Decided | Before baby — registry item |
 | Bottles (starter) | Comotomo Gen 2 5oz 2-pack + Dr. Brown's Options+ 3-pack | ~$41-43 | Researched | Before baby — both on registry; try Comotomo first |
 | Bottle brush | OXO Tot with Stand | ~$10 | Researched | Before baby |
 | Drying rack | Boon Grass | ~$16 | Researched | Before baby — registry item |
@@ -280,12 +266,8 @@ A 2024 peer-reviewed study found that paced bottle feeding effectively slowed fe
 
 - [ ] Feeding plan — revisit closer to due date, after childbirth class and lactation consult
 - [ ] Bottle brand — buy a starter set of one brand, test after baby arrives
-- [ ] Nursing pillow — My Brest Friend vs Boppy (discuss with partner)
+- [x] Nursing pillow — My Brest Friend Deluxe (~$57)
 - [ ] Pump brand — check insurance coverage, order at 30+ weeks
 - [ ] Formula brand — wait unless planning formula from birth (see [formula research](../06-feeding/formula.md) if needed)
 
 ---
-
-*Created 2026-02-28*
-*Updated 2026-02-28: Added breast pump guide, bottle research, paced feeding evidence, product recommendations with prices, buy-before-baby vs wait list*
-*Updated 2026-03-02: Verified/corrected prices (My Brest Friend Deluxe now $56.95; confirmed BabyGearLab Editor's Choice = Blessed Nest at $118); added Situation Fit columns to nursing pillow and bottle tables; added Blessed Nest to nursing pillow comparison; confirmed Comotomo as #1 bottle pick across multiple 2026 reviews; noted Comotomo Gen 2 (2026 release) with improved nipple; updated wearable pump landscape (Elvie Stride 2, Momcozy S12 Pro/M9 insurance-eligible); confirmed Spectra S2 remains most-covered insurance pump; added cross-link to pumping.md*

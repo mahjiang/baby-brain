@@ -46,5 +46,3 @@ nav_order: 1
 - [ ] KellyMom.com (evidence-based breastfeeding info)
 
 ---
-
-*Created 2026-02-28*

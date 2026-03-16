@@ -7,14 +7,14 @@ nav_order: 1
 
 > **How to use this:** Check your current week. Do those things. Ignore everything else until it's time. This is the antidote to overwhelm.
 
-**Current week:** ~20 (mid-second trimester) | **Due date:** ~July 2026
+**Current week:** ~21 (mid-second trimester) | **Due date:** ~July 2026
 
 ---
 
 ## Second Trimester (Weeks 14–27)
 
 ### Week 20–22 — YOU ARE HERE
-- [ ] **Anatomy scan** (~20 weeks) — Major ultrasound; ask about any findings related to [complications](01-pregnancy/complications.md)
+- [x] ~~**Anatomy scan** (~20 weeks)~~ — Completed 2026-03-15. See [complications](01-pregnancy/complications.md) for any findings
 - [ ] **Populate registries by March 8** — See [registry strategy](02-gear/registry-strategy.md) for copy-paste-ready checklist. All product picks are finalized.
 - [ ] **Research childcare options** — Start NOW; waitlists are 6-12+ months in urban areas. See [decision framework](05-childcare/decision-framework.md)
 - [ ] **Get on daycare waitlists** — Even before deciding, get on lists. See [daycare research](05-childcare/daycare-research.md)
@@ -33,7 +33,7 @@ nav_order: 1
 ### Week 24–26
 - [ ] Glucose tolerance test (~24-28 weeks)
 - [ ] **Share Babylist link with shower host by April 1** — See [registry strategy](02-gear/registry-strategy.md)
-- [x] ~~Research [crib/bassinet](02-gear/crib-bassinet.md) options~~ — **Decided:** Arm's Reach/HALO bassinet → DaVinci Sammy Scallop crib + Babyletto Pure Core mattress
+- [x] ~~Research [crib/bassinet](02-gear/crib-bassinet.md) options~~ — **Gifted:** SNOO bassinet + PBK Kendall Convertible Crib. Still need: Babyletto Pure Core mattress (verify fit)
 - [ ] Start [cat prep](03-space/cat-prep.md) — Gradual introduction to baby items
 - [ ] Review [parental leave](08-parental-leave/leave-plan.md) policies with HR
 
@@ -50,7 +50,7 @@ nav_order: 1
 ### Week 28–30
 - [ ] **Hospital/birth center tour** — See [hospital research](04-birth-prep/hospital-research.md)
 - [ ] Start buying remaining [essentials](02-gear/essentials.md) not on registry
-- [ ] **Order crib/bassinet** — Allow time for delivery + setup. See [crib/bassinet](02-gear/crib-bassinet.md)
+- [x] ~~**Order crib/bassinet**~~ — **Gifted:** SNOO + Kendall Convertible Crib. Still need: crib mattress, SNOO sheets, cat cover. See [crib/bassinet](02-gear/crib-bassinet.md)
 - [ ] Begin [postpartum plan](04-birth-prep/postpartum-plan.md) — Meal prep, support system
 - [ ] Review [finances](08-parental-leave/finances.md) — FSA, dependent care elections, budget impact
 

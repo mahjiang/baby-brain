@@ -59,5 +59,3 @@ nav_order: 2
 - Call pediatrician if: red, swollen, smells bad, or oozing pus
 
 ---
-
-*Created 2026-02-28*

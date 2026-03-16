@@ -19,8 +19,6 @@
 
 ## Appointment Notes
 
-*Date-stamp each entry.*
-
 ---
 
 ## Impact on Planning
@@ -30,5 +28,3 @@
 - **Gear:** If early delivery is possible, prioritize [essentials](../02-gear/essentials.md) sooner
 
 ---
-
-*Created 2026-02-28*

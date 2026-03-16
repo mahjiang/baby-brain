@@ -6,7 +6,7 @@ nav_order: 6
 
 # Baby Carrier / Wrap
 
-> **Status:** Researching | **Buy by:** Week 32-34 | **Used OK:** Yes, if structurally sound
+> **Status:** Ready (gifted) | **Gifted:** Ergobaby Omni Deluxe | **Used OK:** Yes, if structurally sound
 
 > **Related files:** [essentials.md](essentials.md) | [registry-strategy.md](registry-strategy.md) | [stroller.md](stroller.md)
 
@@ -19,8 +19,6 @@ Baby wearing is especially useful for apartment + transit life:
 - Takes up almost no storage space
 
 ## Research
-
-*Added 2026-02-28*
 
 ### Evidence on Babywearing Benefits
 
@@ -72,8 +70,6 @@ Both parents will use this, so adjustability matters:
 
 ## Types
 
-*Updated 2026-03-02: Situation Fit column added.*
-
 | Type | Ages | Pros | Cons | Situation Fit |
 |------|------|------|------|---------------|
 | **Wrap** (Solly, Boba) | Newborn--~25 lbs | Cozy, newborn-friendly, cheap, fully shareable | Learning curve to tie, hot in summer | **Good** -- choose Solly (TENCEL Modal) for July baby; one-size fits both parents; nearly zero storage footprint |
@@ -87,8 +83,6 @@ Both parents will use this, so adjustability matters:
 
 ### Wraps
 
-*Updated 2026-03-02: Prices verified. Solly raised from ~$65 to $74–$88 depending on colorway. Boba dropped to ~$40. Situation Fit column added.*
-
 | Model | Weight Range | Price | Material | Breathability | Situation Fit | Notes |
 |-------|-------------|-------|----------|---------------|---------------|-------|
 | **Solly Baby Wrap** | 8--25 lbs | ~$74--88 | TENCEL Modal (90%) / Spandex (10%) | Good -- lightweight, thinner fabric | **Excellent** -- lightest wrap fabric available, essential for July baby; compact storage; one-size fits both parents | Best wrap for summer. Buttery-soft. Easier to learn than Boba per many reviews. Machine washable. (Verified: [Babylist](https://www.babylist.com/gp/solly-baby-wrap-carrier/14574/31648), 2026-03-02) |
@@ -98,8 +92,6 @@ Both parents will use this, so adjustability matters:
 
 ### Ring Slings
 
-*Updated 2026-03-02: Price verified at $74 standard; Situation Fit column added.*
-
 | Model | Weight Range | Price | Material | Breathability | Situation Fit | Notes |
 |-------|-------------|-------|----------|---------------|---------------|-------|
 | **WildBird Ring Sling** | Birth--35 lbs | ~$74 | 100% Belgian linen | Very good -- single layer linen | **Good** -- single-layer linen is breathable for summer, packs into a diaper bag pocket (great for transit); one-shoulder design limits it to short carries, not long transit rides | Beautiful. Quick to learn (good video tutorials). Linen softens with washing. Standard 74" fits most; 90" for tall/plus. Best as supplement to a structured carrier, not a primary. (Verified: [Babylist](https://www.babylist.com/gp/wildbird-linen-ring-sling/20387/1660247), 2026-03-02) |
@@ -107,8 +99,6 @@ Both parents will use this, so adjustability matters:
 **Ring sling notes:** WildBird is the most popular premium ring sling for good reason. Linen is naturally breathable, which helps for summer. Main downside: all weight on one shoulder, so not great for long transit rides or extended walks. Best as a quick-carry option (errands, around the house, quick trips). Can be found used on Mercari/eBay for $25--40.
 
 ### Soft Structured Carriers (SSCs)
-
-*Updated 2026-03-02: Prices verified. Ergobaby Omni Deluxe added (new 2025 successor to Omni Breeze). Lillebaby corrected to current price (~$100). BabyBjorn Harmony price updated to $249.99. Tula Free-to-Grow added (BabyGearLab Editor's Choice). Situation Fit column added. Carriers ordered by Situation Fit.*
 
 | Model | Weight Range | Price | Positions | Breathability | Waist Range | Situation Fit | Notes |
 |-------|-------------|-------|-----------|---------------|-------------|---------------|-------|
@@ -140,8 +130,6 @@ Factors that matter most for us:
 ---
 
 ## Phased Recommendation
-
-*Added 2026-02-28 | Updated 2026-03-02: Rewritten to be propagation-proof. Prices verified. Ergobaby Omni Deluxe added as current successor to Omni Breeze. Lillebaby price corrected. BabyBjorn Harmony price updated.*
 
 ### Phase 1: Newborn (0--4 months) -- Wrap or Embrace
 
@@ -208,24 +196,14 @@ The Omni Breeze and Omni Deluxe Mesh are functionally equivalent. The Deluxe is 
 
 ## Decision
 
-> **Status:** Researching
+> **Status:** Ready — gifted
 >
-> **Recommendation:** Get the **Ergobaby Omni Breeze (~$199) or Omni Deluxe Mesh ($219)** as your primary carrier (works birth to toddler, best breathability in this comparison for July baby, easily shared between parents). Optionally add a **Solly Baby Wrap (~$74--88)** for the cozy newborn stage and/or a **WildBird ring sling (~$74)** for quick carries.
+> **Decision: Ergobaby Omni Deluxe Mesh** — received as gift. This was our top pick: best breathability for a July baby (all-over SoftFlex mesh), works 7--45 lbs (birth to toddler), 4 carrying positions, easily shared between parents (25.5"--57" waist), IHDI hip-healthy certified.
 >
-> Total cost options:
-> - **Minimum:** Omni Breeze only = ~$199 (or ~$100--140 used). Works from birth -- no Phase 1 carrier needed.
-> - **Two-carrier setup:** Omni Breeze + Solly = ~$273--287. Recommended for the newborn experience.
-> - **Three-carrier setup:** Omni Breeze + Solly + WildBird = ~$347--361. Best flexibility; WildBird as quick-carry supplement.
-> - **Budget path:** Lillebaby All Seasons only = ~$100. Wirecutter's top pick; ~$99 cheaper than Omni Breeze; mesh requires active management vs always-on.
+> **Optional add-ons still worth considering:**
+> - **Solly Baby Wrap (~$74--88)** for the cozy newborn "potato stage" (first 6--8 weeks). Lighter TENCEL Modal fabric is best for July heat. Good registry item.
+> - **WildBird Ring Sling (~$74)** for quick carries. Packs into a diaper bag. Can be found used ($25--40).
 >
-> **Registry note:** The Omni Breeze or Omni Deluxe Mesh is an ideal registry item -- recognizable brand at a gift-friendly price point. See [registry-strategy.md](registry-strategy.md) for platform guidance. Put the Solly and/or WildBird on the registry too if going with a multi-carrier approach.
->
-> **Used option:** The Omni Breeze is widely available on resale platforms (Facebook Marketplace, Mercari, GoodBuyGear) for $100--140. The Omni Deluxe is newer and less common used (2025 release). Carriers are safe to buy used as long as buckles, straps, and fabric are structurally sound with no recalls. Check the [CPSC recall list](https://www.cpsc.gov/Recalls) before buying used.
->
-> **Decision:** TBD -- discuss with partner
-
-*Updated 2026-03-02*
+> **Remaining cost: $0** (primary carrier gifted). Optional wrap/sling add-ons: ~$74--162 if desired.
 
 ---
-
-*Created 2026-02-28*

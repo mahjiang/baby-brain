@@ -2,7 +2,7 @@
 
 ## Project Purpose
 
-This is Eric's baby prep research and planning hub. Eric is a first-time parent; his partner is currently ~20 weeks pregnant (mid-second trimester, due ~July 2026). They live in a US urban/suburban apartment with 2 cats, use both car and transit, and have no dedicated nursery room. Both parents get paid leave. Budget is moderate.
+This is Eric's baby prep research and planning hub. Eric is a first-time parent; his partner is currently ~21 weeks pregnant (mid-second trimester, due ~July 2026). They live in a US urban/suburban apartment with 2 cats, use both car and transit, and have no dedicated nursery room. Both parents get paid leave. Budget is moderate.
 
 ## Eric's Profile
 
@@ -33,9 +33,8 @@ Major purchases and choices use this format (see `09-decisions/_template.md`):
 - Eric fills in recommendation; final decision is joint
 
 ### Updates
-- **Append, don't overwrite** — Add new info with dates, keep history
-- **Date-stamp additions**: `*Updated YYYY-MM-DD:*` for significant changes
-- Use `~~strikethrough~~` for outdated info rather than deleting (keeps decision trail)
+- **Keep files current** — Files should reflect the best current knowledge and decisions. Replace outdated info rather than preserving it.
+- Git history is the decision trail — no need for strikethrough or inline change logs
 - Checkboxes `- [ ]` for action items, `- [x]` when done
 
 ### File Structure

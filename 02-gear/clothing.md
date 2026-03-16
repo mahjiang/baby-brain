@@ -33,8 +33,6 @@ nav_order: 9
 
 ### Brand Sizing Notes
 
-*Added 2026-02-28*
-
 Not all baby clothing brands size the same. Here is a rough guide:
 
 | Brand | Sizing Tendency | Notes |
@@ -56,8 +54,6 @@ Not all baby clothing brands size the same. Here is a rough guide:
 - Organize by current size + next size in separate bins
 
 ## Summer Baby Tips
-
-*Added 2026-02-28*
 
 July due date means baby's first months are peak summer. Here is what matters.
 
@@ -105,5 +101,3 @@ This applies year-round but is especially relevant for transitional seasons (lat
 > **Summer baby shortcut:** You need fewer clothes overall because laundry is easier (small items dry fast) and baby is mostly in a diaper + onesie at home. Don't overbuy.
 
 ---
-
-*Created 2026-02-28*

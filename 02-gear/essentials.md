@@ -31,7 +31,7 @@ nav_order: 1
 
 | Item                                   | Status      | Decision File                        | Notes                                                                        |
 | -------------------------------------- | ----------- | ------------------------------------ | ---------------------------------------------------------------------------- |
-| Safe sleep space (bassinet or crib)    | Decided | [crib-bassinet.md](crib-bassinet.md) | Arm's Reach or HALO bassinet → DaVinci Sammy Scallop crib. Must meet CPSC standards. |
+| Safe sleep space (bassinet or crib)    | Ready | [crib-bassinet.md](crib-bassinet.md) | **Gifted:** SNOO bassinet + PBK Kendall Convertible Crib. Still need: crib mattress + cat cover. |
 | Fitted sheets (2-3 per surface)        | Researched  | —                                    | **Burt's Bees BEESNUG organic** for crib (~$22/ea). Bassinet: brand-specific (Arm's Reach or HALO). 3 per surface. See [Fitted Sheets](#fitted-sheets) below. |
 | Changing pad + covers (2)              | —           | —                                    | Contoured pad on dresser or table works; no dedicated changing table needed. |
 | Burp cloths (10-12)                    | Researched  | —                                    | **Gerber Birdseye Prefold Cloth Diapers 10-pack** (~$16). More absorbent + cheaper than dedicated burp cloths. See [Burp Cloths](#burp-cloths) below. |
@@ -45,33 +45,33 @@ nav_order: 1
 | Item | Status | Decision File | Notes |
 |------|--------|--------------|-------|
 | Stroller | Decided | [stroller.md](stroller.md) | **UPPAbaby MINU V3.** Car seat compatible + transit friendly. |
-| Baby carrier / wrap | Researching | [carrier.md](carrier.md) | Game-changer for apartment life + transit. |
+| Baby carrier / wrap | Ready | [carrier.md](carrier.md) | **Gifted:** Ergobaby Omni Deluxe. Game-changer for apartment life + transit. |
 | Breast pump | — | [pumping](../06-feeding/pumping.md) | Check insurance coverage first. |
 | Bottles (if pumping or combo feeding) | — | [feeding.md](feeding.md) | Start with a small set; babies are picky. |
 | White noise machine | — | [nice-to-have.md](nice-to-have.md) | **Yogasleep Dohm** (~$35-45, home) + **Yogasleep Hushh** (~$30, portable). Or Hatch Rest+ (~$90) for all-in-one. See [nice-to-have](nice-to-have.md#sound-machine). |
 | Baby monitor (video) | Researched | — | **Infant Optics DXR-8 PRO** (~$170-200, non-WiFi) or **VTech VM819** (~$60, budget). See [Baby Monitor](#baby-monitor-video) below. |
 | Pacifiers (if using) | Researched | — | **Philips Avent Soothie** + **Dr. Brown's HappyPaci** (~$12 total for starter set). One-piece silicone, AAP-recommended for safe sleep. See [Pacifiers](#pacifiers) below. |
 | Diaper cream | Researched | — | **Aquaphor Baby** (prevention) + **Desitin Maximum Strength** (active rash). ~$8-12 each. |
-| Thermometer | Researched | — | **Frida Baby Quick-Read Digital Rectal** (~$17). 10-sec read, parent-proof stopper. Rectal is AAP gold standard for infants. See [Thermometer](#thermometer) below. |
+| Thermometer | Decided | — | **Exergen Smart Glow Temporal** (~$34). Hospital-grade forehead swipe, 100+ clinical studies. See [Thermometer](#thermometer) below. |
 | Infant Tylenol + first aid basics | Researched | — | **Infant's Tylenol** (~$8-10, don't use until 3+ months w/ pediatrician guidance), **NoseFrida** (~$13), saline drops, gas drops. See [First Aid](#first-aid-basics) below. ~$45-60 total kit. |
 
 ## Tier 4: Nice to Have / First Few Months
 
 See [nice-to-have.md](nice-to-have.md) for the full list. Highlights:
 
-- Bouncer / rocker (somewhere to put baby down)
+- Bouncer / rocker — **Gifted:** BabyBjorn Bouncer
 - Play mat / activity gym
 - Baby bathtub (or bath flower for sink baths)
 - Diaper bag / backpack
 - Portable sound machine for outings
+
+> **Self-buy items:** See [shopping-list.md](shopping-list.md) for the consolidated checklist of commodity items to buy yourself (not register for).
 
 ---
 
 ## Product Research
 
 ### Swaddles & Sleep Sacks
-
-*Added 2026-03-02*
 
 **What to know:**
 - Swaddling improves sleep by dampening the Moro (startle) reflex. *Evidence:* Research shows swaddled infants are less likely to transition from startling to wakefulness. (Source: [ParentData — Emily Oster](https://parentdata.org/qa-dangerous-swaddle-baby/))
@@ -128,8 +128,6 @@ See [nice-to-have.md](nice-to-have.md) for the full list. Highlights:
 
 ### Baby Monitor (Video)
 
-*Added 2026-03-02*
-
 **WiFi vs. Non-WiFi — the key decision:**
 
 | | WiFi (Smart) Monitors | Non-WiFi (Dedicated) Monitors |
@@ -172,8 +170,6 @@ See [nice-to-have.md](nice-to-have.md) for the full list. Highlights:
 
 ### Pacifiers
 
-*Added 2026-03-02*
-
 **Evidence:** The AAP recommends offering a pacifier at nap time and bedtime as a SIDS risk reduction strategy — this is an **A-level recommendation** (highest evidence grade). A meta-analysis of 7 studies found pacifier use reduces SIDS risk with an adjusted OR of 0.39 (roughly 61% relative risk reduction). In absolute terms, the NNT is ~2,733. Since pacifiers cost ~$3 and have minimal downside, it's an easy "yes." (Source: [AAP 2022 Safe Sleep](https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304), [Hauck et al., Pediatrics 2005](https://publications.aap.org/pediatrics/article/116/5/e716/68083))
 
 **When to introduce:** For breastfed infants, delay until breastfeeding is established (~3-4 weeks). Formula-fed can start anytime.
@@ -194,16 +190,11 @@ See [nice-to-have.md](nice-to-have.md) for the full list. Highlights:
 
 ### Fitted Sheets
 
-*Added 2026-03-02*
-
 **Safety note:** A properly fitted sheet is a safety item. Loose sheets can bunch and become a suffocation risk. Always check fit after washing — cotton can shrink. (Source: [AAP — Bare is Best](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/a-parents-guide-to-safe-sleep.aspx))
 
-**Bassinet sheets** — depends on which bassinet you choose:
-- **If Arm's Reach Clear-Vue:** Arm's Reach Cotton Fitted Sheets (~$25/ea) or Biloban 2-pack jersey cotton (~$16-20 for 2). 18"x34" size.
-- **If HALO BassiNest 4.0:** HALO BassiNest Fitted Sheets (~$15-20/ea). Proprietary hourglass shape — must use HALO-compatible sheets.
-- Buy **3 per surface** for rotation during blowouts.
+**Bassinet sheets (SNOO):** The SNOO uses proprietary organic cotton fitted sheets (~$32-35 each). The SNOO comes with one sheet — buy 2-3 extras for rotation during blowouts. Only SNOO-branded sheets fit.
 
-**Crib sheets (for DaVinci Sammy Scallop — standard 52"x28"):**
+**Crib sheets (for PBK Kendall Convertible Crib — standard 52"×28" confirmed):**
 - **Burt's Bees Baby Organic Cotton BEESNUG Fitted Crib Sheet** — ~$22/ea. GOTS organic cotton jersey, deep 360° elastic, OEKO-TEX certified. Breathable for July baby. Buy 3.
 
 (Sources: [Arm's Reach — Sheets](https://www.armsreach.com/products/mini-cotton-sheets), [HALO Sleep — BassiNest Sheets](https://www.halosleep.com/collections/bassinest-fitted-sheets), [Burt's Bees Baby — Crib Sheets](https://burtsbeesbaby.com/collections/crib-sheets))
@@ -213,8 +204,6 @@ See [nice-to-have.md](nice-to-have.md) for the full list. Highlights:
 ---
 
 ### Burp Cloths
-
-*Added 2026-03-02*
 
 **Gerber Birdseye Prefold Cloth Diapers 10-pack** — ~$16
 
@@ -226,8 +215,6 @@ Cloth diapers as burp cloths is the veteran parent move: larger (~14"x20"), more
 
 ### Baby Laundry Detergent
 
-*Added 2026-03-02*
-
 **All Free Clear** — ~$12-14 for 88 oz (58 loads)
 
 "Baby detergent" is largely marketing. Pediatric dermatologists say the key is avoiding **fragrances** (#1 contact allergen), **dyes**, and **optical brighteners**. Any detergent free of all three is fine for newborn skin. **Dreft scores an F on the EWG scale** due to sodium borate, fragrance, and optical brighteners — the very ingredients to avoid. All Free Clear is the #1 dermatologist-recommended detergent for sensitive skin. Use for the whole household — no need to wash baby clothes separately.
@@ -237,8 +224,6 @@ Cloth diapers as burp cloths is the veteran parent move: larger (~14"x20"), more
 ---
 
 ### Nail File / Clippers
-
-*Added 2026-03-02*
 
 **Frida Baby Electric Nail Buffer** — ~$40
 
@@ -252,21 +237,19 @@ File only (not clip) for the first 4-6 weeks — nails are paper-thin and fused 
 
 ### Thermometer
 
-*Added 2026-03-02*
+**Exergen Smart Glow Temporal Artery Thermometer** — ~$34
 
-**Frida Baby Quick-Read Digital Rectal Thermometer** — ~$17
+**Status:** Decided
 
-AAP recommends rectal temperature as the gold standard for infants, especially under 3 months. The Frida Quick-Read has a 10-second read time, parent-proof stopper (prevents over-insertion), flexible tip, and backlit display. Apply petroleum jelly to tip, insert no more than 1 inch.
+Temporal (forehead swipe) thermometers are the most accurate non-rectal method per AAP and can be used from birth. The Exergen is the clinical standard — used in most US hospitals, backed by 100+ published clinical studies, takes 1,000 readings per second and selects the most accurate. Swipe across forehead from temple to temple. Reads ~0.5-1°F lower than rectal — your pediatrician will account for this.
 
-> **Critical:** A rectal temp of 100.4°F (38°C) or higher in an infant under 3 months is a medical emergency. Call your pediatrician immediately or go to the ER.
+> **Critical:** A temp of 100.4°F (38°C) or higher (rectal equivalent) in an infant under 3 months is a medical emergency. Call your pediatrician immediately or go to the ER. For temporal readings, ask your pediatrician what threshold they want you to call at.
 
-(Sources: [AAP — Treating Fever](https://www.healthychildren.org/English/health-issues/conditions/fever/pages/Medications-Used-to-Treat-Fever.aspx), [Frida Baby — Rectal Thermometer](https://frida.com/products/quick-read-digital-rectal-thermometer))
+(Sources: [AAP — How to Take Your Child's Temperature](https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/How-to-Take-a-Childs-Temperature.aspx), [AAP News — Temporal artery thermometers may rival rectal](https://publications.aap.org/aapnews/article/34/4/2/10563/Temporal-artery-thermometers-may-rival-rectal), [Exergen TAT-2000C](https://www.exergen.com/product/tat-2000c-temporal-artery-thermometer/))
 
 ---
 
 ### First Aid Basics
-
-*Added 2026-03-02*
 
 **Have on hand before baby arrives (~$45-60 total):**
 
@@ -302,21 +285,18 @@ AAP recommends rectal temperature as the gold standard for infants, especially u
 | Category | Estimated Range | Notes |
 |----------|----------------|-------|
 | Car seat | **$450** | **Decided** — UPPAbaby Aria V2, see [car-seat.md](car-seat.md) |
-| Sleep setup (phased) | **$590–$770** | **Decided** — bassinet ($200-280) + DaVinci Sammy Scallop crib ($299) + mattress ($60-150) + cat cover ($30-40), see [crib-bassinet.md](crib-bassinet.md) |
+| Sleep setup (phased) | **~$410–$470** | **Gifted** — SNOO bassinet + PBK Kendall Convertible Crib. Remaining: SNOO sheets (~$65-105) + Newton mattress + pad (~$315-325) + cat cover ($30-40), see [crib-bassinet.md](crib-bassinet.md) |
 | Stroller | **$500** | **Decided** — UPPAbaby MINU V3, see [stroller.md](stroller.md) |
-| Carrier | $65–$200 | Used OK — wrap + structured carrier, see [carrier.md](carrier.md) |
+| Carrier | **$0** | **Gifted** — Ergobaby Omni Deluxe. Optional wrap for newborn stage (~$74-88), see [carrier.md](carrier.md) |
 | Breast pump | $0 (insurance) + $25 manual backup | Check plan — see [feeding.md](feeding.md) |
 | Feeding supplies | $110–$135 | Bottles, pillow, pads, cream — see [feeding.md](feeding.md) |
-| Crib mattress | **$150–$200** | **Babyletto Pure Core 2-Stage** — see [crib-bassinet.md](crib-bassinet.md) |
+| Crib mattress | **~$315-325** | **Decided** — Newton 2-Stage (~$300) + waterproof pad (~$15-25) — see [crib-bassinet.md](crib-bassinet.md) |
 | Swaddles + sleep sacks | $155–$185 | HALO swaddle wraps + muslin blankets + sleep sacks |
 | Clothes + basics | $100–$200 | Used OK, accept hand-me-downs |
 | Diapers/wipes/supplies | $130–$270 | See [diapering.md](diapering.md) |
-| Sheets + burp cloths | $145–$165 | Fitted sheets (bassinet + crib) + Gerber prefolds |
+| Sheets + burp cloths | $145–$170 | SNOO sheets (~$65-105) + crib sheets (~$66) + Gerber prefolds |
 | Health + first aid | $75–$95 | Thermometer, nail care, first aid kit, pacifiers |
 | Household (detergent, etc.) | $12–$14 | All Free Clear for whole household |
-| **Estimated total** | **$2,420–$3,185** | Before registry gifts |
+| **Estimated total** | **~$1,975–$2,680** | Before registry gifts (SNOO, PBK Kendall Convertible Crib, Ergobaby Omni Deluxe, BabyBjorn Bouncer gifted) |
 
 ---
-
-*Created 2026-02-28*
-*Updated 2026-03-02: Full product research — swaddles/sleep sacks, pacifiers, fitted sheets, burp cloths, detergent, nail care, thermometer, first aid basics. All items now have specific product picks and prices.*

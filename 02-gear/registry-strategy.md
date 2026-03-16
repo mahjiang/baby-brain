@@ -10,8 +10,6 @@ nav_order: 2
 
 ## Our Situation
 
-*Added 2026-03-01*
-
 - **Apartment, no nursery:** Prefer ship-to-door over bulky in-store pickups; limited storage means don't let gifts arrive months early
 - **Moderate budget ($2,045–$2,850 total gear):** Completion discounts matter — 15-20% off big-ticket items adds up fast
 - **First-time parents:** People will want to gift generously — lean into that. Include a range of price points ($10–$500+) so everyone can participate
@@ -30,9 +28,6 @@ A registry isn't just a gift list — it's a research tool, price tracker, and c
 ---
 
 ## Where to Register — Platform Comparison
-
-*Added 2026-03-01*
-*Updated 2026-03-02: Corrected Babylist brand exclusions (UPPAbaby IS eligible) and Target availability (does not carry UPPAbaby).*
 
 | Feature | **Amazon** | **Babylist** | **Target** |
 |---------|-----------|-------------|-----------|
@@ -53,13 +48,9 @@ A registry isn't just a gift list — it's a research tool, price tracker, and c
 
 ### Critical Finding: Brand Exclusions
 
-*Updated 2026-03-02: Corrected — Babylist does NOT exclude UPPAbaby; Target does not carry UPPAbaby.*
-
 > **This matters a lot for us.** Babylist's 15% completion discount **excludes DaVinci** (Million Dollar Baby) but **does NOT exclude UPPAbaby** — the Aria V2 ($450) and MINU V3 ($500) are eligible for Babylist's 15% off. Target has **no brand exclusions** but **does not carry UPPAbaby** (not an authorized retailer). **Split strategy:** Use **Babylist** for UPPAbaby completion discount (~$142.50 savings). Use **Target + RedCard** for DaVinci crib, bassinet, mattress, and other items (~$135 savings).
 
 ### Recommendation
-
-*Updated 2026-03-02: Adjusted to 3-registry split strategy based on corrected brand availability.*
 
 > **Register at 3 places:** **Babylist** (shareable primary + UPPAbaby completion discount) + **Target** (DaVinci, bassinet, mattress, mid-range completion discount) + **Amazon** (welcome box + backup discount for anything not on Babylist/Target).
 
@@ -82,8 +73,6 @@ A registry isn't just a gift list — it's a research tool, price tracker, and c
 
 ## Strategy: What to Register For vs Self-Buy
 
-*Updated 2026-03-01: Moved decided items into self-buy with specific products and prices*
-
 ### Self-Buy (Decided — Buy Yourself)
 
 These are safety-critical or heavily researched items where you've already made the decision. **Add UPPAbaby items to Babylist and everything else to Target** — you'll buy them yourself using completion discounts.
@@ -92,11 +81,11 @@ These are safety-critical or heavily researched items where you've already made 
 |------|---------|-------|---------------|-------|
 | **Car seat** | UPPAbaby Aria V2 | $450 | [car-seat.md](car-seat.md) | Decided. Lightest carrier, load leg + anti-rebound panel. Buy by week 26-28 |
 | **Stroller** | UPPAbaby MINU V3 | $500 | [stroller.md](stroller.md) | Decided. Best features in compact class. Buy by week 30-32 |
-| **Bassinet** | Arm's Reach Clear-Vue or HALO BassiNest 4.0 | $200–$280 | [crib-bassinet.md](crib-bassinet.md) | Decided (final pick between these two is lower-stakes). Buy by week 28-30 |
-| **Crib** | DaVinci Sammy Scallop 4-in-1 | $299 | [crib-bassinet.md](crib-bassinet.md) | Decided. Full-size convertible. Buy by week 32-34 |
-| **Crib mattress** | Babyletto Pure Core 2-Stage w/ Dry Waterproof Cover | ~$150-200 | [crib-bassinet.md](crib-bassinet.md) | Dual firmness, non-foam core, GREENGUARD Gold. Best breathability for July baby. |
+| **Bassinet** | SNOO Smart Sleeper | $0 (gifted) | [crib-bassinet.md](crib-bassinet.md) | **Gifted** |
+| **Crib** | PBK Kendall Convertible Crib | $0 (gifted) | [crib-bassinet.md](crib-bassinet.md) | **Gifted** |
+| **Crib mattress** | Newton 2-Stage | ~$300 | [crib-bassinet.md](crib-bassinet.md) | Decided. Best breathability for July baby, fully washable core. Needs waterproof pad (~$15-25). |
 | **Breast pump** | TBD | $0 (insurance) | [pumping](../06-feeding/pumping.md) | Usually covered by insurance — check plan |
-| **Self-buy subtotal** | | **~$1,600–$1,830** | | Before completion discounts |
+| **Self-buy subtotal** | | **~$1,250** | | Before completion discounts. Bassinet + crib gifted (~$500-580 saved). |
 
 > **Why self-buy these?** Car seat and crib are safety-critical — you need to research fit for your car and space. The stroller is paired with the car seat (UPPAbaby ecosystem). These aren't items where you want to leave the choice to a gifter.
 
@@ -140,9 +129,6 @@ Great gift territory — things people love buying, where the exact brand matter
 
 ## Completion Discount Strategy
 
-*Added 2026-03-01*
-*Updated 2026-03-02: Corrected UPPAbaby/Babylist eligibility and Target availability; split savings across platforms.*
-
 This is where the real savings are. The strategy: add everything to your registry — including items you plan to buy yourself — then use completion discounts after the shower to self-buy at 15-20% off.
 
 ### When Discounts Activate (July 2026 due date)
@@ -169,8 +155,6 @@ This is where the real savings are. The strategy: add everything to your registr
 
 ### Potential Savings Calculation
 
-*Updated 2026-03-02: Split across Babylist (UPPAbaby) and Target (DaVinci + other items) based on corrected availability.*
-
 **Babylist completion discount (15%) — UPPAbaby items**
 
 | Item | Retail Price | After 15% Discount | Savings |
@@ -179,16 +163,14 @@ This is where the real savings are. The strategy: add everything to your registr
 | UPPAbaby MINU V3 | $500 | ~$425 | ~$75 |
 | **Babylist subtotal** | **$950** | **~$807.50** | **~$142.50** |
 
-**Target completion discount (~20% w/ RedCard) — DaVinci + other items**
+**Target completion discount (~20% w/ RedCard) — remaining items**
 
 | Item | Retail Price | After ~20% Discount | Savings |
 |------|-------------|---------------------|---------|
-| DaVinci Sammy Scallop | $299 | ~$239 | ~$60 |
-| Bassinet (Arm's Reach) | $200 | ~$160 | ~$40 |
-| Crib mattress (Babyletto Pure Core) | ~$175 | ~$140 | ~$35 |
-| **Target subtotal** | **$674** | **~$539** | **~$135** |
+| Crib mattress (Newton 2-Stage) | ~$300 | ~$240 | ~$60 |
+| **Target subtotal** | **~$300** | **~$240** | **~$60** |
 
-**Combined savings: ~$277.50** (Babylist ~$142.50 + Target ~$135)
+**Combined savings: ~$202.50** (Babylist ~$142.50 + Target ~$60)
 
 **Scenario: Same items at Amazon with Prime (15% off, $300 cap)**
 
@@ -197,7 +179,7 @@ This is where the real savings are. The strategy: add everything to your registr
 | All items combined | $1,624 | ~$1,380 | ~$244 |
 | But capped at... | | | **$300 max** |
 
-> **Bottom line: The Babylist + Target split saves ~$277.50 on decided items.** This is less than the old ~$325 estimate (because Babylist's 15% is lower than Target's ~20% for UPPAbaby), but it's the correct strategy since Target doesn't carry UPPAbaby. Amazon's $300 cap and listing restrictions make it the backup option.
+> **Bottom line: The Babylist + Target split saves ~$202.50 on decided items.** Babylist gives 15% on UPPAbaby (~$142.50); Target + RedCard gives ~20% on Newton mattress (~$60). Amazon's $300 cap and listing restrictions make it the backup option.
 
 ### The Play-by-Play
 
@@ -211,12 +193,10 @@ This is where the real savings are. The strategy: add everything to your registr
 
 ### Items to Add to Target Registry (Even If Self-Buying)
 
-*Updated 2026-03-02: Removed UPPAbaby (Target doesn't carry it). Buy UPPAbaby through Babylist Shop with completion discount instead.*
-
 Add these to Target to maximize your ~20% completion discount:
 - [ ] DaVinci Sammy Scallop crib ($299)
 - [ ] Arm's Reach Clear-Vue OR HALO BassiNest 4.0 ($200-$280)
-- [ ] Babyletto Pure Core 2-Stage crib mattress (~$150-200)
+- [ ] Newton 2-Stage crib mattress (~$300)
 - [ ] Any other gear over $50 that Target carries
 
 > **UPPAbaby items (Aria V2 + MINU V3):** Add to **Babylist** registry instead — buy through Babylist Shop with 15% completion discount (~$142.50 savings).
@@ -241,17 +221,16 @@ Add these to Target to maximize your ~20% completion discount:
 See [essentials](essentials.md) for overall budget tracking.
 
 **Registry savings summary:**
-- Total gear estimate: ~$2,420–$3,185 (before gifts) — see [essentials](essentials.md)
-- Self-buy items (decided): ~$1,600–$1,830
-- Potential completion discount savings (Babylist + Target + RedCard): **~$277.50**
-- Registry gifts will cover a significant portion of the remaining ~$820–$1,355 in non-safety-critical items
-- **Realistic out-of-pocket after gifts + discounts: ~$1,300–$1,800** *(estimate — depends on shower generosity)*
+- Total gear estimate: ~$1,975–$2,680 (after gifts received so far) — see [essentials](essentials.md)
+- Already gifted: SNOO bassinet, PBK Kendall Convertible Crib, Ergobaby Omni Deluxe, BabyBjorn Bouncer, 7AM stroller accessories (~$2,400+ retail value)
+- Self-buy items remaining: ~$1,250
+- Potential completion discount savings (Babylist + Target + RedCard): **~$202.50**
+- Registry gifts (shower) will cover additional non-safety-critical items
+- **Realistic out-of-pocket after all gifts + discounts: ~$1,000–$1,400** *(estimate)*
 
 ---
 
 ## Master Registry Checklist — Copy-Paste Ready
-
-*Added 2026-03-02*
 
 Use this checklist to populate Babylist and Target. Every item has a specific product and price.
 
@@ -265,13 +244,14 @@ Gift-friendly items across a range of price points. Add all of these to Babylist
 - [ ] **UPPAbaby MINU V3 stroller** — $500 *(enable group gifting)*
 - [ ] **DaVinci Sammy Scallop 4-in-1 crib** — $299 *(enable group gifting)*
 - [ ] **Arm's Reach Clear-Vue OR HALO BassiNest 4.0 bassinet** — $200-280 *(enable group gifting)*
-- [ ] **Babyletto Pure Core 2-Stage crib mattress** — ~$175 *(enable group gifting)*
-- [ ] **BabyBjorn Bouncer Bliss** — ~$230 *(nice-to-have — fallback: Fisher-Price $40-60)*
+- [ ] **Newton 2-Stage crib mattress** — ~$300 *(enable group gifting)*
+- [x] **BabyBjorn Bouncer Bliss** — ~$230 *(gifted)*
 - [ ] **Lovevery Play Gym** — ~$140 *(nice-to-have — fallback: Skip Hop $50-85)*
 - [ ] **Nurture& Glider Plus** or **Babyletto Toco Glider** — ~$350-850 *(optional registry dream pick — fallback: existing furniture + nursing pillow)*
 - [ ] **Dagne Dover Indi Diaper Backpack** — ~$185 *(nice-to-have — fallback: Skip Hop Forma $80)*
-- [ ] **Baby carrier/wrap** — $65-200 *(Researching — leave as suggestion; partner discussion needed)* See [carrier.md](carrier.md)
+- [x] **Baby carrier/wrap** — $65-200 *(gifted: Ergobaby Omni Deluxe)*
 - [ ] **Infant Optics DXR-8 PRO video monitor** — ~$170-200 *(non-WiFi, encrypted, 5" screen, pan/tilt)*
+- [ ] **Guava Lotus Travel Crib** — ~$300 *(enable group gifting; zip-open side, backpack carry, GREENGUARD Gold)*
 
 #### Mid-Range Items ($25-$99)
 
@@ -307,15 +287,13 @@ Gift-friendly items across a range of price points. Add all of these to Babylist
 
 ### Target (Completion Discount Registry — Primarily Self-Buy)
 
-*Updated 2026-03-02: Removed UPPAbaby (Target doesn't carry it). Use Babylist for UPPAbaby completion discount.*
-
 Add these to Target registry for the ~20% completion discount (15% + 5% RedCard). These are items you plan to buy yourself after the shower.
 
 #### Self-Buy Items (Add to Target for Completion Discount)
 
-- [ ] DaVinci Sammy Scallop 4-in-1 crib — $299 → ~$239 after discount
-- [ ] Arm's Reach Clear-Vue OR HALO BassiNest 4.0 — $200-280 → ~$160-224 after discount
-- [ ] Babyletto Pure Core 2-Stage crib mattress — ~$175 → ~$140 after discount
+- [x] DaVinci Sammy Scallop 4-in-1 crib — $299 *(no longer needed — PBK Kendall Convertible Crib gifted)*
+- [x] Arm's Reach Clear-Vue OR HALO BassiNest 4.0 — $200-280 *(no longer needed — SNOO gifted)*
+- [ ] Crib mattress — Newton 2-Stage (~$300 → ~$240 after discount) *(decided — best breathability for July baby)*
 - [ ] Cat safety mesh cover — ~$30-40
 - [ ] Infant Optics DXR-8 PRO video monitor — ~$170-200 *(or VTech VM819 ~$60 as budget alt)*
 - [ ] Any other items $50+ that Target carries and weren't gifted
@@ -346,15 +324,15 @@ These are too cheap or too preference-dependent to register:
 | Infant Tylenol | Infant's Tylenol 160mg/5mL | ~$8-10 | Have on hand by month 3 |
 | Diaper cream (backup) | Desitin Maximum Strength | ~$8 | Commodity |
 | NoseFrida SnotSucker | Frida Baby | ~$13 | Can buy or put on registry — your call |
-| Bassinet sheets | Brand-specific (Arm's Reach or HALO) | ~$65-75 for 3 | Must match specific bassinet; just buy |
+| SNOO sheets | Happiest Baby SNOO fitted sheets | ~$65-105 for 2-3 | Proprietary — only SNOO-branded sheets fit |
 
-**Self-buy commodity total: ~$130-145**
+**Self-buy commodity total: ~$130-175**
+
+> See [shopping-list.md](shopping-list.md) for the full self-buy checklist including these items plus diapering supplies, sleep accessories, and bath products.
 
 ---
 
 ## Action Items
-
-*Updated 2026-03-02: Adjusted for 3-registry split strategy.*
 
 - [ ] Get Target RedCard (debit version — no credit check) — **do this week**
 - [ ] Set up Babylist registry — **by March 8**
@@ -365,15 +343,10 @@ These are too cheap or too preference-dependent to register:
 - [ ] Add DaVinci crib, bassinet, mattress, and mid-range items to Target registry — **by March 8**
 - [ ] Discuss registry with partner (platform choices, cash funds)
 - [ ] Share Babylist link with shower host — **by April 1**
-- [x] ~~Finalize baby monitor pick~~ — **Decided:** Infant Optics DXR-8 PRO (~$170-200). Add to registries.
+- [x] Finalize baby monitor pick — **Decided:** Infant Optics DXR-8 PRO (~$170-200). Add to registries.
 - [ ] **May 2: Baby shower**
 - [ ] After shower: assess what's left, buy UPPAbaby self-buy items through Babylist, other self-buy items at Target with RedCard
 - [ ] Completion discount activation: ~May 2026 for all platforms
 - [ ] Verify UPPAbaby is still eligible for Babylist discount when discount window opens — exclusions can change without notice per Babylist TOS
 
 ---
-
-*Created 2026-02-28*
-*Updated 2026-03-01: Full research pass — platform comparison with sources, completion discount strategy with calculations, updated self-buy list with decided items, added Our Situation section*
-*Updated 2026-03-02: Added Master Registry Checklist with specific products and prices for all items. Updated shower date to May 2, registry deadline to March 8. Updated budget figures with crib mattress pick (Babyletto Pure Core).*
-*Updated 2026-03-02: Corrected two errors — (1) Target does not carry UPPAbaby (not an authorized retailer); (2) Babylist does NOT exclude UPPAbaby from completion discount. Revised to 3-registry split strategy: Babylist for UPPAbaby discount, Target for DaVinci/other items, Amazon as backup. Updated savings from ~$325 to ~$277.50.*

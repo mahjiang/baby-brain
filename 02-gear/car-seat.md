@@ -26,7 +26,7 @@ nav_order: 3
 
 ### NHTSA Ease-of-Use Ratings
 
-NHTSA rates car seats on ease of use (not crash safety — all sold seats meet federal crash standards). They evaluate: quality of instructions, label clarity, vehicle installation features, and securing the child. Check ratings for your specific seat at the [NHTSA Car Seat Finder](https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-ease-use-ratings). *Added 2026-02-28*
+NHTSA rates car seats on ease of use (not crash safety — all sold seats meet federal crash standards). They evaluate: quality of instructions, label clarity, vehicle installation features, and securing the child. Check ratings for your specific seat at the [NHTSA Car Seat Finder](https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-ease-use-ratings).
 
 ## Our Requirements
 
@@ -46,8 +46,6 @@ NHTSA rates car seats on ease of use (not crash safety — all sold seats meet f
 | **Nuna PIPA RX** | Infant carrier | ~8.5 lbs | ~$400 | 30 lbs | Yes (RELX base) | No | All Nuna strollers; Maxi-Cosi adapter compatible (UPPAbaby, Bugaboo, many more) | Top crash test results, premium build |
 | **UPPAbaby Aria V2** | Infant carrier | ~6.1 lbs | ~$450 | 35 lbs | Yes | Yes (anti-rebound panel) | UPPAbaby Vista/Cruz direct; Minu/Ridge w/ adapter | Lightest on market, excellent for transit |
 | **Graco SnugRide 35 Lite LX** | Infant carrier | ~7.6 lbs | ~$120 | 35 lbs | No | No | Graco Click Connect strollers | Budget pick, decent crash test results |
-
-*Added 2026-02-28*
 
 ## Research & Reviews
 
@@ -160,8 +158,6 @@ At ~$120, this is the most affordable seat on the list. Carrier weighs 7.6 lbs. 
 | FAA approved | Yes | Yes | Yes | Yes |
 | Ventilation | Standard | Standard | Enhanced (V2) | Standard |
 
-*Added 2026-02-28*
-
 ## Decision
 
 > **Status:** Decided — discussed with partner *2026-03-01*
@@ -177,11 +173,6 @@ At ~$120, this is the most affordable seat on the list. Carrier weighs 7.6 lbs. 
 > **Rationale:** Mostly driving (transit is occasional, not daily), so the UPPAbaby ecosystem lock-in is not a concern. Safety features (load leg + anti-rebound panel) were worth the investment over the Nuna PIPA RX, and the weight advantage is a bonus rather than the deciding factor. Features > weight shaving.
 >
 > **Total car seat + stroller: ~$950** (Aria V2 $450 + MINU V3 $500)
->
-> ~~**Previously considered alternatives:**~~
-> - ~~Nuna PIPA RX (~$400) — top crash tests, broader stroller compatibility, but no anti-rebound panel~~
-> - ~~Chicco KeyFit 35 (~$170-200) — easiest install, but heaviest (10.4 lbs) and no load leg~~
-> - ~~Graco SnugRide 35 Lite LX (~$120) — budget pick, but missing load leg~~
 
 ---
 
@@ -194,6 +185,3 @@ At ~$120, this is the most affordable seat on the list. Carrier weighs 7.6 lbs. 
 - [ ] Purchase UPPAbaby Aria V2 by week 26-28
 - [ ] Schedule free car seat inspection with a certified CPST — search [NHTSA's inspection station locator](https://www.nhtsa.gov/equipment/car-seats-and-booster-seats#inspection-station) or call your local fire station (inspections are free, by appointment, ~20-30 min) (Source: [Safe in the Seat](https://www.safeintheseat.com/post/do-fire-stations-install-car-seats))
 - [ ] Practice installing and removing the seat before baby arrives
-
-*Created 2026-02-28*
-*Updated 2026-03-01: Decision reached — UPPAbaby Aria V2, paired with MINU V3 stroller*

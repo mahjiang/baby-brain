@@ -45,5 +45,3 @@ nav_order: 3
 - Dependent Care FSA can help offset costs (up to $5,000/year pre-tax)
 
 ---
-
-*Created 2026-02-28*

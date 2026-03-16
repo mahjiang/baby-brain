@@ -40,5 +40,3 @@ See [essentials](../02-gear/essentials.md) for gear budget breakdown.
 | Non-birthing parent | | | | |
 
 ---
-
-*Created 2026-02-28*

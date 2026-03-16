@@ -45,5 +45,3 @@ nav_order: 2
 - [ ] Confirm insurance coverage and pre-authorization if needed
 
 ---
-
-*Created 2026-02-28*

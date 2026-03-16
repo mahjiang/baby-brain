@@ -94,5 +94,3 @@ Rate each option on what matters most to you (1-5 scale):
 - [ ] Review [backup care](backup-care.md) options regardless of primary choice
 
 ---
-
-*Created 2026-02-28*

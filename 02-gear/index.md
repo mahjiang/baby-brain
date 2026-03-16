@@ -54,5 +54,3 @@ has_children: true
 - [Nice-to-have](nice-to-have.md)
 
 ---
-
-*Created 2026-02-28*

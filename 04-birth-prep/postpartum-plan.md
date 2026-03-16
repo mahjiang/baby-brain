@@ -54,5 +54,3 @@ nav_order: 5
 - [ ] Plan pet care for hospital stay — see [cat prep](../03-space/cat-prep.md)
 
 ---
-
-*Created 2026-02-28*

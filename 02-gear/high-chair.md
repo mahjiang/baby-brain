@@ -205,5 +205,3 @@ Before buying any used high chair, verify all six:
 - [ ] No need to purchase until ~5 months (November 2026)
 
 ---
-
-*Added 2026-03-02*

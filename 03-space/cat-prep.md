@@ -22,7 +22,7 @@ nav_order: 3
 ### Sleep Space Safety
 - [ ] **Critical: Neither cat should have access to baby's sleep space** — see Research section for actual risk data
 - [ ] Options:
-  - ~~Crib net/tent~~ (recalled by CPSC — see Research section; do not use)
+  - Crib net/tent — **do not use** (recalled by CPSC — see Research section)
   - Close bedroom door + video monitor (best option for our shared bedroom setup)
   - Screen door on bedroom (allows cats to see in; reduces anxiety from exclusion)
   - Keep cats out of bedroom entirely (hardest adjustment if they currently sleep with us)
@@ -58,8 +58,6 @@ nav_order: 3
 ---
 
 ## Research
-
-*Added 2026-03-01*
 
 ### Our Situation
 - Apartment, no dedicated nursery — baby will sleep in our bedroom
@@ -117,7 +115,7 @@ Since we're room-sharing (no separate nursery), our barrier options are differen
 | **Bassinet with closing canopy/cover** | Good (blocks access to sleep surface specifically) | Check product is CPSC-rated for sleep | **Good** — protects sleep surface without excluding cats from entire room | Varies by bassinet model | **Excellent** if bassinet has integrated cover |
 | **Screen door on bedroom** | Good (cat can see in, reduces stress) | Yes | **Poor** — we sleep in this room too; a screen door doesn't help for room-sharing | ~$50-150 installed | **Poor** for shared bedroom |
 | **Extra-tall cat gate (72")** | Very good (even jumpers can't clear) | Yes | **Poor** — same problem as screen door for room-sharing | ~$50-100 | **Poor** for shared bedroom |
-| ~~**Crib net/tent**~~ | ~~Moderate~~ | ~~**NO — recalled by CPSC, entanglement/strangulation risk**~~ | ~~N/A~~ | ~~$60-85~~ | ~~**Do not use**~~ |
+| **Crib net/tent** | Moderate | **NO — recalled by CPSC, entanglement/strangulation risk** | N/A | $60-85 | **Do not use** |
 | **Closed bassinet + keep cats off with training/deterrents** | Moderate (depends on cat persistence) | Yes | **Good** — aluminum foil or double-sided tape on/around bassinet during training period | ~$5-10 | **Good** as supplementary strategy |
 
 > **Our situation:** Because we're room-sharing with no separate nursery, the best options are: (1) a bassinet model with an integrated cover/canopy that blocks cat access to the sleep surface directly, or (2) training cats to sleep outside the bedroom before baby arrives and using a closed door + monitor. Option 1 lets cats stay in the room (less stressful for them); option 2 is the most foolproof. Consider combining: close bedroom door at night + use a bassinet with cover as backup. See [crib/bassinet notes](../02-gear/crib-bassinet.md) for models with covers.
@@ -235,5 +233,3 @@ Since we're room-sharing (no separate nursery), our barrier options are differen
 - [Crib/bassinet decision](../02-gear/crib-bassinet.md) — bassinet models with covers relevant to cat barrier strategy
 
 ---
-
-*Created 2026-02-28*

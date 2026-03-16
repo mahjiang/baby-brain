@@ -45,5 +45,3 @@ nav_order: 4
 ---
 
 **When to discuss with pediatrician:** If baby isn't meeting milestones or you have concerns, bring it up. Early intervention is most effective when started early. Trust your instincts.
-
-*Created 2026-02-28*

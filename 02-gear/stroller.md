@@ -39,8 +39,6 @@ nav_order: 5
 
 ## Research & Reviews
 
-*Added 2026-02-28*
-
 ### Overview: Compact City Strollers
 
 The compact/city stroller category has matured significantly. All five models above fold small enough for airline overhead bins (IATA-compliant), which also means they store well in apartments and car trunks. The main trade-offs are between weight, fold compactness, ride quality, and features like basket size and canopy coverage. (Source: [Fathercraft Travel Stroller Tests](https://fathercraft.com/best-travel-strollers/))
@@ -178,22 +176,18 @@ Since baby is due July 2026:
 > **Rationale:** Mostly driving (transit is occasional), so the 3 lb weight difference vs YOYO3 matters less than daily-use features like basket size, terrain handling, and canopy coverage. The UPPAbaby ecosystem pairing with Aria V2 (no adapter) sealed the deal.
 >
 > **Total car seat + stroller: ~$950** (Aria V2 $450 + MINU V3 $500)
->
-> ~~**Previously considered alternatives:**~~
-> - ~~Stokke YOYO3 (~$499) — lightest (13.6 lbs) for transit stairs, but smaller basket/canopy and fiddly fold~~
-> - ~~Bugaboo Butterfly 2 (~$599) — best canopy, but heaviest and most expensive~~
-> - ~~Nuna TRVL (~$350-450) — best fold mechanism, but locked to Nuna ecosystem~~
-> - ~~Cybex Libelle 2 (~$300) — budget pick, but no standing fold and limited terrain handling~~
 
 ---
 
 ## Action Items
 - [x] Research strollers after car seat decision (for compatibility)
-- [x] Research top compact stroller options *(completed 2026-02-28)*
+- [x] Research top compact stroller options
 - [x] Decide car seat + stroller together — chosen UPPAbaby ecosystem (Aria V2 + MINU V3)
 - [ ] Check trunk fit for MINU V3 folded dimensions (10" × 18" × 21.5")
 - [ ] Try MINU V3 fold mechanism in store if possible
 - [ ] Purchase UPPAbaby MINU V3 by week 30-32
 
-*Created 2026-02-28*
-*Updated 2026-03-01: Decision reached — UPPAbaby MINU V3, paired with Aria V2 car seat*
+## Gifted Accessories
+
+- **7AM Warmmuffs** — Stroller hand muffs for cold weather. Attach to handlebar for fall/winter outings.
+- **7AM Blanket 212 Evolution** — Universal stroller/car seat blanket. Multi-layered, temperature-adaptable. Great for fall/winter when baby is a few months old.
